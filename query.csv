@@ -1,0 +1,1001 @@
+Customer Name,Company Type,Complaint Category,Query,Date
+Customer 1,Hospital,Price and Value,Why are the prices so high for such basic services?,11/16/2023
+Customer 2,Hotel,Operational Issue,"Why are your facilities not maintained properly, causing so many inconveniences?",10/3/2024
+Customer 3,Bank,Feedback,Why wasn't my feedback on the service acknowledged?,12/2/2023
+Customer 4,Hospital,Fraud and Scam,Why did I find unauthorized charges on my account?,5/15/2024
+Customer 5,Hospital,Operational Issue,"Why are your facilities not maintained properly, causing so many inconveniences?",7/26/2024
+Customer 6,Bank,Feedback,Why wasn't my feedback on the service acknowledged?,3/17/2024
+Customer 7,Hotel,Feedback,Can you explain why my experience was so different from what was advertised?,2/27/2024
+Customer 8,Hospital,Price and Value,Why are the prices so high for such basic services?,1/8/2024
+Customer 9,Bank,Feedback,Can you explain why my experience was so different from what was advertised?,10/26/2023
+Customer 10,Hospital,Price and Value,Why was I billed more than what I had agreed upon?,4/17/2024
+Customer 11,Hotel,Bribery,Is it normal to be asked for additional payment by the staff for quicker services?,4/20/2024
+Customer 12,Hotel,Operational Issue,Why is there always an issue with your online services?,1/25/2024
+Customer 13,Hotel,Customer Service,Why does it take forever to resolve even the simplest issues?,11/19/2023
+Customer 14,Hotel,Customer Service,How long do I need to wait for someone to respond to my service request?,6/24/2024
+Customer 15,Bank,Fraud and Scam,Why did I find unauthorized charges on my account?,1/19/2024
+Customer 16,Hospital,Customer Service,Why is the customer service so slow and unresponsive?,10/16/2023
+Customer 17,Hotel,Fraud and Scam,Why did I find unauthorized charges on my account?,10/5/2024
+Customer 18,Hotel,Bribery,Why was I informed that I could get priority if I paid an unofficial fee?,2/16/2024
+Customer 19,Hospital,Price and Value,Why was I billed more than what I had agreed upon?,1/4/2024
+Customer 20,Hotel,Operational Issue,Why is there always an issue with your online services?,9/21/2024
+Customer 21,Hospital,Fraud and Scam,Why did a suspicious transaction go through without any security verification?,10/25/2023
+Customer 22,Bank,Feedback,Can you explain why my experience was so different from what was advertised?,5/23/2024
+Customer 23,Hotel,Fraud and Scam,Why did I find unauthorized charges on my account?,3/21/2024
+Customer 24,Hospital,Fraud and Scam,Why did a suspicious transaction go through without any security verification?,10/9/2023
+Customer 25,Hotel,Fraud and Scam,Why did a suspicious transaction go through without any security verification?,2/7/2024
+Customer 26,Bank,Operational Issue,Can you explain why the system was down for hours?,3/5/2024
+Customer 27,Hospital,Price and Value,Why was I billed more than what I had agreed upon?,8/31/2024
+Customer 28,Bank,Fraud and Scam,Can you explain why my credit card was charged twice for a single transaction?,5/5/2024
+Customer 29,Hotel,Customer Service,Why does it take forever to resolve even the simplest issues?,4/30/2024
+Customer 30,Bank,Feedback,Why wasn't my feedback on the service acknowledged?,11/22/2023
+Customer 31,Hotel,Bribery,Is it normal to be asked for additional payment by the staff for quicker services?,7/5/2024
+Customer 32,Hotel,Operational Issue,Why is there always an issue with your online services?,4/15/2024
+Customer 33,Hospital,Price and Value,Why are the prices so high for such basic services?,11/13/2023
+Customer 34,Bank,Bribery,Why was I informed that I could get priority if I paid an unofficial fee?,6/2/2024
+Customer 35,Hotel,Customer Service,Why is the customer service so slow and unresponsive?,2/3/2024
+Customer 36,Bank,Fraud and Scam,Why did I find unauthorized charges on my account?,1/25/2024
+Customer 37,Hospital,Price and Value,Why are the prices so high for such basic services?,9/28/2024
+Customer 38,Bank,Feedback,How do you plan to improve based on customer feedback like mine?,2/2/2024
+Customer 39,Hotel,Price and Value,Can you explain the hidden fees added to my bill?,1/2/2024
+Customer 40,Bank,Price and Value,Why are the prices so high for such basic services?,12/12/2023
+Customer 41,Hotel,Feedback,How do you plan to improve based on customer feedback like mine?,4/7/2024
+Customer 42,Bank,Customer Service,How long do I need to wait for someone to respond to my service request?,7/6/2024
+Customer 43,Bank,Bribery,Is it normal to be asked for additional payment by the staff for quicker services?,2/28/2024
+Customer 44,Hotel,Customer Service,How long do I need to wait for someone to respond to my service request?,5/1/2024
+Customer 45,Hotel,Operational Issue,Can you explain why the system was down for hours?,2/28/2024
+Customer 46,Bank,Feedback,Why wasn't my feedback on the service acknowledged?,6/23/2024
+Customer 47,Hospital,Fraud and Scam,Why did I find unauthorized charges on my account?,2/3/2024
+Customer 48,Hotel,Feedback,Can you explain why my experience was so different from what was advertised?,2/18/2024
+Customer 49,Hotel,Operational Issue,Can you explain why the system was down for hours?,2/21/2024
+Customer 50,Hospital,Customer Service,Why is the customer service so slow and unresponsive?,12/6/2023
+Customer 51,Bank,Bribery,Why was I informed that I could get priority if I paid an unofficial fee?,2/13/2024
+Customer 52,Bank,Customer Service,How long do I need to wait for someone to respond to my service request?,7/10/2024
+Customer 53,Hospital,Bribery,Why was I informed that I could get priority if I paid an unofficial fee?,7/28/2024
+Customer 54,Hotel,Price and Value,Why was I billed more than what I had agreed upon?,10/11/2023
+Customer 55,Bank,Fraud and Scam,Can you explain why my credit card was charged twice for a single transaction?,11/18/2023
+Customer 56,Bank,Feedback,How do you plan to improve based on customer feedback like mine?,11/8/2023
+Customer 57,Bank,Customer Service,How long do I need to wait for someone to respond to my service request?,10/21/2023
+Customer 58,Hotel,Feedback,How do you plan to improve based on customer feedback like mine?,10/6/2023
+Customer 59,Bank,Feedback,Why wasn't my feedback on the service acknowledged?,2/2/2024
+Customer 60,Hotel,Operational Issue,Why is there always an issue with your online services?,4/4/2024
+Customer 61,Hospital,Price and Value,Why are the prices so high for such basic services?,6/24/2024
+Customer 62,Bank,Customer Service,Why does it take forever to resolve even the simplest issues?,5/14/2024
+Customer 63,Hotel,Price and Value,Why are the prices so high for such basic services?,4/15/2024
+Customer 64,Hotel,Feedback,Can you explain why my experience was so different from what was advertised?,8/23/2024
+Customer 65,Bank,Feedback,Why wasn't my feedback on the service acknowledged?,6/19/2024
+Customer 66,Bank,Fraud and Scam,Why did a suspicious transaction go through without any security verification?,12/20/2023
+Customer 67,Bank,Bribery,Is it normal to be asked for additional payment by the staff for quicker services?,4/14/2024
+Customer 68,Hospital,Feedback,Can you explain why my experience was so different from what was advertised?,3/26/2024
+Customer 69,Hotel,Customer Service,How long do I need to wait for someone to respond to my service request?,4/10/2024
+Customer 70,Hospital,Feedback,Can you explain why my experience was so different from what was advertised?,8/11/2024
+Customer 71,Bank,Fraud and Scam,Why did I find unauthorized charges on my account?,11/18/2023
+Customer 72,Hotel,Fraud and Scam,Can you explain why my credit card was charged twice for a single transaction?,11/4/2023
+Customer 73,Bank,Fraud and Scam,Can you explain why my credit card was charged twice for a single transaction?,1/9/2024
+Customer 74,Bank,Customer Service,Why is the customer service so slow and unresponsive?,5/11/2024
+Customer 75,Hotel,Feedback,How do you plan to improve based on customer feedback like mine?,1/31/2024
+Customer 76,Hospital,Bribery,Why do I need to pay extra for services that should be standard?,8/4/2024
+Customer 77,Hotel,Fraud and Scam,Can you explain why my credit card was charged twice for a single transaction?,10/14/2023
+Customer 78,Hospital,Customer Service,Why does it take forever to resolve even the simplest issues?,11/8/2023
+Customer 79,Bank,Price and Value,Why was I billed more than what I had agreed upon?,7/31/2024
+Customer 80,Hospital,Bribery,Why was I informed that I could get priority if I paid an unofficial fee?,1/9/2024
+Customer 81,Hospital,Customer Service,Why is the customer service so slow and unresponsive?,7/31/2024
+Customer 82,Hospital,Bribery,Why was I informed that I could get priority if I paid an unofficial fee?,5/18/2024
+Customer 83,Hospital,Price and Value,Why are the prices so high for such basic services?,7/7/2024
+Customer 84,Hospital,Bribery,Why do I need to pay extra for services that should be standard?,2/29/2024
+Customer 85,Hospital,Customer Service,Why does it take forever to resolve even the simplest issues?,12/23/2023
+Customer 86,Hospital,Bribery,Why was I informed that I could get priority if I paid an unofficial fee?,8/28/2024
+Customer 87,Hotel,Fraud and Scam,Why did I find unauthorized charges on my account?,7/19/2024
+Customer 88,Hotel,Price and Value,Can you explain the hidden fees added to my bill?,10/20/2023
+Customer 89,Hotel,Bribery,Why do I need to pay extra for services that should be standard?,11/1/2023
+Customer 90,Hotel,Feedback,Why wasn't my feedback on the service acknowledged?,2/12/2024
+Customer 91,Hospital,Fraud and Scam,Can you explain why my credit card was charged twice for a single transaction?,1/16/2024
+Customer 92,Bank,Operational Issue,Can you explain why the system was down for hours?,10/23/2023
+Customer 93,Bank,Customer Service,Why is the customer service so slow and unresponsive?,2/14/2024
+Customer 94,Hotel,Price and Value,Can you explain the hidden fees added to my bill?,11/23/2023
+Customer 95,Hospital,Bribery,Is it normal to be asked for additional payment by the staff for quicker services?,2/25/2024
+Customer 96,Hotel,Feedback,Can you explain why my experience was so different from what was advertised?,9/29/2024
+Customer 97,Hospital,Feedback,How do you plan to improve based on customer feedback like mine?,11/6/2023
+Customer 98,Bank,Fraud and Scam,Why did I find unauthorized charges on my account?,7/13/2024
+Customer 99,Hotel,Customer Service,Why does it take forever to resolve even the simplest issues?,4/30/2024
+Customer 100,Bank,Operational Issue,Can you explain why the system was down for hours?,11/18/2023
+Customer 101,Hotel,Customer Service,Why does it take forever to resolve even the simplest issues?,8/7/2024
+Customer 102,Hospital,Fraud and Scam,Why did a suspicious transaction go through without any security verification?,2/25/2024
+Customer 103,Hospital,Bribery,Is it normal to be asked for additional payment by the staff for quicker services?,8/29/2024
+Customer 104,Hotel,Customer Service,How long do I need to wait for someone to respond to my service request?,11/4/2023
+Customer 105,Hospital,Feedback,Why wasn't my feedback on the service acknowledged?,10/2/2024
+Customer 106,Hotel,Operational Issue,"Why are your facilities not maintained properly, causing so many inconveniences?",8/24/2024
+Customer 107,Hotel,Feedback,Why wasn't my feedback on the service acknowledged?,4/6/2024
+Customer 108,Hotel,Operational Issue,Can you explain why the system was down for hours?,12/4/2023
+Customer 109,Bank,Customer Service,How long do I need to wait for someone to respond to my service request?,4/6/2024
+Customer 110,Hospital,Price and Value,Can you explain the hidden fees added to my bill?,11/27/2023
+Customer 111,Hospital,Fraud and Scam,Can you explain why my credit card was charged twice for a single transaction?,10/13/2023
+Customer 112,Hotel,Fraud and Scam,Why did a suspicious transaction go through without any security verification?,10/15/2023
+Customer 113,Hospital,Customer Service,Why is the customer service so slow and unresponsive?,11/2/2023
+Customer 114,Hotel,Operational Issue,"Why are your facilities not maintained properly, causing so many inconveniences?",1/22/2024
+Customer 115,Bank,Fraud and Scam,Why did I find unauthorized charges on my account?,3/24/2024
+Customer 116,Hospital,Feedback,Why wasn't my feedback on the service acknowledged?,7/31/2024
+Customer 117,Hotel,Feedback,How do you plan to improve based on customer feedback like mine?,1/29/2024
+Customer 118,Hospital,Customer Service,How long do I need to wait for someone to respond to my service request?,10/21/2023
+Customer 119,Bank,Operational Issue,Can you explain why the system was down for hours?,12/17/2023
+Customer 120,Hospital,Customer Service,Why does it take forever to resolve even the simplest issues?,2/12/2024
+Customer 121,Hospital,Fraud and Scam,Why did a suspicious transaction go through without any security verification?,8/8/2024
+Customer 122,Hospital,Price and Value,Why was I billed more than what I had agreed upon?,10/6/2023
+Customer 123,Hospital,Operational Issue,Can you explain why the system was down for hours?,6/6/2024
+Customer 124,Hospital,Fraud and Scam,Why did I find unauthorized charges on my account?,5/25/2024
+Customer 125,Bank,Feedback,How do you plan to improve based on customer feedback like mine?,7/1/2024
+Customer 126,Hospital,Customer Service,Why does it take forever to resolve even the simplest issues?,9/28/2024
+Customer 127,Bank,Feedback,Why wasn't my feedback on the service acknowledged?,3/6/2024
+Customer 128,Hospital,Price and Value,Can you explain the hidden fees added to my bill?,4/30/2024
+Customer 129,Hospital,Operational Issue,Why is there always an issue with your online services?,2/3/2024
+Customer 130,Hotel,Feedback,How do you plan to improve based on customer feedback like mine?,11/11/2023
+Customer 131,Hospital,Price and Value,Why are the prices so high for such basic services?,6/15/2024
+Customer 132,Bank,Feedback,Why wasn't my feedback on the service acknowledged?,1/12/2024
+Customer 133,Hospital,Fraud and Scam,Why did I find unauthorized charges on my account?,3/21/2024
+Customer 134,Hotel,Customer Service,How long do I need to wait for someone to respond to my service request?,2/2/2024
+Customer 135,Bank,Feedback,Can you explain why my experience was so different from what was advertised?,5/30/2024
+Customer 136,Hotel,Bribery,Is it normal to be asked for additional payment by the staff for quicker services?,12/3/2023
+Customer 137,Bank,Customer Service,Why is the customer service so slow and unresponsive?,8/12/2024
+Customer 138,Bank,Price and Value,Can you explain the hidden fees added to my bill?,1/14/2024
+Customer 139,Hotel,Fraud and Scam,Why did I find unauthorized charges on my account?,1/7/2024
+Customer 140,Hotel,Bribery,Is it normal to be asked for additional payment by the staff for quicker services?,10/24/2023
+Customer 141,Bank,Operational Issue,Can you explain why the system was down for hours?,8/29/2024
+Customer 142,Bank,Fraud and Scam,Why did I find unauthorized charges on my account?,6/5/2024
+Customer 143,Hotel,Customer Service,Why is the customer service so slow and unresponsive?,7/26/2024
+Customer 144,Bank,Fraud and Scam,Why did a suspicious transaction go through without any security verification?,3/6/2024
+Customer 145,Bank,Price and Value,Why are the prices so high for such basic services?,2/15/2024
+Customer 146,Hotel,Price and Value,Why are the prices so high for such basic services?,8/21/2024
+Customer 147,Bank,Bribery,Is it normal to be asked for additional payment by the staff for quicker services?,11/26/2023
+Customer 148,Hotel,Bribery,Why do I need to pay extra for services that should be standard?,6/17/2024
+Customer 149,Bank,Operational Issue,Why is there always an issue with your online services?,7/20/2024
+Customer 150,Bank,Operational Issue,Can you explain why the system was down for hours?,3/2/2024
+Customer 151,Bank,Feedback,How do you plan to improve based on customer feedback like mine?,2/19/2024
+Customer 152,Bank,Feedback,How do you plan to improve based on customer feedback like mine?,1/27/2024
+Customer 153,Hotel,Feedback,How do you plan to improve based on customer feedback like mine?,1/4/2024
+Customer 154,Hospital,Operational Issue,Can you explain why the system was down for hours?,10/30/2023
+Customer 155,Hotel,Fraud and Scam,Why did a suspicious transaction go through without any security verification?,8/21/2024
+Customer 156,Hospital,Feedback,Can you explain why my experience was so different from what was advertised?,1/26/2024
+Customer 157,Hotel,Fraud and Scam,Why did a suspicious transaction go through without any security verification?,1/4/2024
+Customer 158,Bank,Feedback,Why wasn't my feedback on the service acknowledged?,7/19/2024
+Customer 159,Hospital,Price and Value,Can you explain the hidden fees added to my bill?,9/12/2024
+Customer 160,Bank,Price and Value,Can you explain the hidden fees added to my bill?,7/27/2024
+Customer 161,Hotel,Operational Issue,Why is there always an issue with your online services?,3/16/2024
+Customer 162,Bank,Feedback,Why wasn't my feedback on the service acknowledged?,5/13/2024
+Customer 163,Hotel,Feedback,Can you explain why my experience was so different from what was advertised?,9/8/2024
+Customer 164,Hotel,Bribery,Why do I need to pay extra for services that should be standard?,10/16/2023
+Customer 165,Bank,Price and Value,Can you explain the hidden fees added to my bill?,1/19/2024
+Customer 166,Hotel,Bribery,Why was I informed that I could get priority if I paid an unofficial fee?,7/5/2024
+Customer 167,Hotel,Customer Service,Why does it take forever to resolve even the simplest issues?,8/23/2024
+Customer 168,Hotel,Price and Value,Can you explain the hidden fees added to my bill?,9/12/2024
+Customer 169,Hospital,Feedback,Why wasn't my feedback on the service acknowledged?,10/10/2023
+Customer 170,Hotel,Feedback,How do you plan to improve based on customer feedback like mine?,1/17/2024
+Customer 171,Bank,Price and Value,Can you explain the hidden fees added to my bill?,3/25/2024
+Customer 172,Bank,Customer Service,Why is the customer service so slow and unresponsive?,6/22/2024
+Customer 173,Bank,Bribery,Why do I need to pay extra for services that should be standard?,5/9/2024
+Customer 174,Bank,Fraud and Scam,Can you explain why my credit card was charged twice for a single transaction?,8/22/2024
+Customer 175,Bank,Customer Service,Why is the customer service so slow and unresponsive?,8/8/2024
+Customer 176,Hotel,Operational Issue,Can you explain why the system was down for hours?,5/4/2024
+Customer 177,Hospital,Price and Value,Why was I billed more than what I had agreed upon?,7/7/2024
+Customer 178,Bank,Feedback,Can you explain why my experience was so different from what was advertised?,5/27/2024
+Customer 179,Hospital,Feedback,Why wasn't my feedback on the service acknowledged?,1/13/2024
+Customer 180,Hotel,Operational Issue,"Why are your facilities not maintained properly, causing so many inconveniences?",4/30/2024
+Customer 181,Bank,Bribery,Why was I informed that I could get priority if I paid an unofficial fee?,5/9/2024
+Customer 182,Hospital,Bribery,Is it normal to be asked for additional payment by the staff for quicker services?,5/2/2024
+Customer 183,Hotel,Bribery,Why was I informed that I could get priority if I paid an unofficial fee?,11/2/2023
+Customer 184,Hospital,Operational Issue,Why is there always an issue with your online services?,3/1/2024
+Customer 185,Bank,Customer Service,Why does it take forever to resolve even the simplest issues?,10/29/2023
+Customer 186,Bank,Fraud and Scam,Can you explain why my credit card was charged twice for a single transaction?,10/27/2023
+Customer 187,Bank,Bribery,Is it normal to be asked for additional payment by the staff for quicker services?,4/9/2024
+Customer 188,Bank,Fraud and Scam,Why did I find unauthorized charges on my account?,4/28/2024
+Customer 189,Bank,Bribery,Is it normal to be asked for additional payment by the staff for quicker services?,9/26/2024
+Customer 190,Hotel,Operational Issue,Why is there always an issue with your online services?,9/1/2024
+Customer 191,Hotel,Operational Issue,Can you explain why the system was down for hours?,8/19/2024
+Customer 192,Bank,Feedback,Can you explain why my experience was so different from what was advertised?,4/3/2024
+Customer 193,Bank,Fraud and Scam,Why did I find unauthorized charges on my account?,3/6/2024
+Customer 194,Bank,Price and Value,Why was I billed more than what I had agreed upon?,2/4/2024
+Customer 195,Hotel,Operational Issue,Can you explain why the system was down for hours?,4/14/2024
+Customer 196,Hospital,Bribery,Is it normal to be asked for additional payment by the staff for quicker services?,6/17/2024
+Customer 197,Bank,Customer Service,How long do I need to wait for someone to respond to my service request?,4/23/2024
+Customer 198,Hospital,Operational Issue,Can you explain why the system was down for hours?,10/15/2023
+Customer 199,Hospital,Fraud and Scam,Why did I find unauthorized charges on my account?,7/31/2024
+Customer 200,Bank,Price and Value,Can you explain the hidden fees added to my bill?,10/12/2023
+Customer 201,Hotel,Customer Service,Why does it take forever to resolve even the simplest issues?,1/8/2024
+Customer 202,Bank,Feedback,Why wasn't my feedback on the service acknowledged?,1/29/2024
+Customer 203,Hospital,Price and Value,Why are the prices so high for such basic services?,7/8/2024
+Customer 204,Hotel,Bribery,Why do I need to pay extra for services that should be standard?,11/14/2023
+Customer 205,Bank,Bribery,Why was I informed that I could get priority if I paid an unofficial fee?,12/19/2023
+Customer 206,Hotel,Customer Service,Why does it take forever to resolve even the simplest issues?,1/3/2024
+Customer 207,Bank,Feedback,Why wasn't my feedback on the service acknowledged?,11/9/2023
+Customer 208,Hospital,Fraud and Scam,Why did I find unauthorized charges on my account?,8/15/2024
+Customer 209,Hotel,Bribery,Why do I need to pay extra for services that should be standard?,3/27/2024
+Customer 210,Hotel,Customer Service,Why is the customer service so slow and unresponsive?,3/15/2024
+Customer 211,Bank,Fraud and Scam,Can you explain why my credit card was charged twice for a single transaction?,8/24/2024
+Customer 212,Hotel,Feedback,Can you explain why my experience was so different from what was advertised?,12/22/2023
+Customer 213,Hospital,Fraud and Scam,Can you explain why my credit card was charged twice for a single transaction?,7/15/2024
+Customer 214,Hotel,Price and Value,Why was I billed more than what I had agreed upon?,1/19/2024
+Customer 215,Hospital,Fraud and Scam,Why did a suspicious transaction go through without any security verification?,12/26/2023
+Customer 216,Bank,Customer Service,Why does it take forever to resolve even the simplest issues?,12/14/2023
+Customer 217,Bank,Price and Value,Why are the prices so high for such basic services?,7/31/2024
+Customer 218,Hospital,Customer Service,Why does it take forever to resolve even the simplest issues?,5/31/2024
+Customer 219,Hospital,Bribery,Why was I informed that I could get priority if I paid an unofficial fee?,4/8/2024
+Customer 220,Hotel,Feedback,Can you explain why my experience was so different from what was advertised?,2/17/2024
+Customer 221,Bank,Fraud and Scam,Can you explain why my credit card was charged twice for a single transaction?,1/3/2024
+Customer 222,Bank,Fraud and Scam,Why did a suspicious transaction go through without any security verification?,12/3/2023
+Customer 223,Bank,Feedback,Why wasn't my feedback on the service acknowledged?,8/12/2024
+Customer 224,Hotel,Bribery,Is it normal to be asked for additional payment by the staff for quicker services?,11/11/2023
+Customer 225,Hospital,Operational Issue,Why is there always an issue with your online services?,4/14/2024
+Customer 226,Bank,Bribery,Is it normal to be asked for additional payment by the staff for quicker services?,10/1/2024
+Customer 227,Hotel,Feedback,Why wasn't my feedback on the service acknowledged?,3/7/2024
+Customer 228,Hotel,Operational Issue,Why is there always an issue with your online services?,10/10/2023
+Customer 229,Hospital,Bribery,Why do I need to pay extra for services that should be standard?,8/22/2024
+Customer 230,Hotel,Price and Value,Why was I billed more than what I had agreed upon?,2/8/2024
+Customer 231,Hospital,Fraud and Scam,Why did I find unauthorized charges on my account?,10/6/2023
+Customer 232,Hotel,Operational Issue,"Why are your facilities not maintained properly, causing so many inconveniences?",10/22/2023
+Customer 233,Hospital,Operational Issue,Why is there always an issue with your online services?,2/14/2024
+Customer 234,Bank,Bribery,Is it normal to be asked for additional payment by the staff for quicker services?,1/10/2024
+Customer 235,Hospital,Fraud and Scam,Why did a suspicious transaction go through without any security verification?,4/28/2024
+Customer 236,Hospital,Feedback,How do you plan to improve based on customer feedback like mine?,11/11/2023
+Customer 237,Hotel,Fraud and Scam,Can you explain why my credit card was charged twice for a single transaction?,8/23/2024
+Customer 238,Hospital,Operational Issue,Can you explain why the system was down for hours?,5/16/2024
+Customer 239,Hotel,Fraud and Scam,Can you explain why my credit card was charged twice for a single transaction?,11/29/2023
+Customer 240,Bank,Customer Service,Why does it take forever to resolve even the simplest issues?,8/2/2024
+Customer 241,Hospital,Fraud and Scam,Why did a suspicious transaction go through without any security verification?,12/29/2023
+Customer 242,Hotel,Customer Service,Why does it take forever to resolve even the simplest issues?,6/2/2024
+Customer 243,Hotel,Customer Service,How long do I need to wait for someone to respond to my service request?,7/3/2024
+Customer 244,Hospital,Customer Service,Why is the customer service so slow and unresponsive?,8/18/2024
+Customer 245,Hospital,Bribery,Why was I informed that I could get priority if I paid an unofficial fee?,4/12/2024
+Customer 246,Hospital,Bribery,Why do I need to pay extra for services that should be standard?,3/14/2024
+Customer 247,Bank,Bribery,Why do I need to pay extra for services that should be standard?,1/25/2024
+Customer 248,Bank,Customer Service,Why is the customer service so slow and unresponsive?,1/4/2024
+Customer 249,Hotel,Customer Service,How long do I need to wait for someone to respond to my service request?,4/16/2024
+Customer 250,Hotel,Fraud and Scam,Why did a suspicious transaction go through without any security verification?,1/20/2024
+Customer 251,Hospital,Customer Service,Why does it take forever to resolve even the simplest issues?,9/5/2024
+Customer 252,Hospital,Operational Issue,Can you explain why the system was down for hours?,9/21/2024
+Customer 253,Bank,Fraud and Scam,Why did a suspicious transaction go through without any security verification?,8/20/2024
+Customer 254,Hospital,Price and Value,Can you explain the hidden fees added to my bill?,11/3/2023
+Customer 255,Bank,Operational Issue,Why is there always an issue with your online services?,2/2/2024
+Customer 256,Hospital,Bribery,Why was I informed that I could get priority if I paid an unofficial fee?,10/12/2023
+Customer 257,Hotel,Operational Issue,Can you explain why the system was down for hours?,9/6/2024
+Customer 258,Hotel,Fraud and Scam,Why did I find unauthorized charges on my account?,11/16/2023
+Customer 259,Bank,Customer Service,Why does it take forever to resolve even the simplest issues?,9/2/2024
+Customer 260,Hospital,Feedback,Why wasn't my feedback on the service acknowledged?,10/20/2023
+Customer 261,Bank,Bribery,Why do I need to pay extra for services that should be standard?,3/28/2024
+Customer 262,Hotel,Customer Service,How long do I need to wait for someone to respond to my service request?,1/25/2024
+Customer 263,Hotel,Feedback,Why wasn't my feedback on the service acknowledged?,7/10/2024
+Customer 264,Hotel,Fraud and Scam,Can you explain why my credit card was charged twice for a single transaction?,5/27/2024
+Customer 265,Bank,Bribery,Why do I need to pay extra for services that should be standard?,9/27/2024
+Customer 266,Bank,Operational Issue,"Why are your facilities not maintained properly, causing so many inconveniences?",11/23/2023
+Customer 267,Hotel,Feedback,Why wasn't my feedback on the service acknowledged?,9/30/2024
+Customer 268,Hospital,Price and Value,Why was I billed more than what I had agreed upon?,2/13/2024
+Customer 269,Bank,Feedback,Why wasn't my feedback on the service acknowledged?,7/17/2024
+Customer 270,Bank,Fraud and Scam,Can you explain why my credit card was charged twice for a single transaction?,9/10/2024
+Customer 271,Hospital,Customer Service,Why is the customer service so slow and unresponsive?,8/24/2024
+Customer 272,Bank,Feedback,How do you plan to improve based on customer feedback like mine?,3/15/2024
+Customer 273,Hospital,Customer Service,Why is the customer service so slow and unresponsive?,6/21/2024
+Customer 274,Hospital,Price and Value,Can you explain the hidden fees added to my bill?,4/9/2024
+Customer 275,Hospital,Price and Value,Why are the prices so high for such basic services?,7/28/2024
+Customer 276,Hospital,Bribery,Is it normal to be asked for additional payment by the staff for quicker services?,11/18/2023
+Customer 277,Hotel,Bribery,Is it normal to be asked for additional payment by the staff for quicker services?,5/27/2024
+Customer 278,Bank,Price and Value,Why are the prices so high for such basic services?,5/24/2024
+Customer 279,Hospital,Bribery,Why do I need to pay extra for services that should be standard?,6/10/2024
+Customer 280,Hotel,Price and Value,Why was I billed more than what I had agreed upon?,12/24/2023
+Customer 281,Hotel,Price and Value,Can you explain the hidden fees added to my bill?,8/29/2024
+Customer 282,Bank,Price and Value,Why was I billed more than what I had agreed upon?,12/30/2023
+Customer 283,Hospital,Fraud and Scam,Can you explain why my credit card was charged twice for a single transaction?,8/25/2024
+Customer 284,Hotel,Price and Value,Why are the prices so high for such basic services?,3/5/2024
+Customer 285,Hotel,Customer Service,Why does it take forever to resolve even the simplest issues?,1/18/2024
+Customer 286,Hotel,Fraud and Scam,Can you explain why my credit card was charged twice for a single transaction?,3/19/2024
+Customer 287,Hospital,Customer Service,How long do I need to wait for someone to respond to my service request?,5/2/2024
+Customer 288,Hotel,Operational Issue,Why is there always an issue with your online services?,9/2/2024
+Customer 289,Bank,Customer Service,Why does it take forever to resolve even the simplest issues?,4/28/2024
+Customer 290,Hotel,Feedback,How do you plan to improve based on customer feedback like mine?,2/2/2024
+Customer 291,Hospital,Feedback,How do you plan to improve based on customer feedback like mine?,2/12/2024
+Customer 292,Hotel,Customer Service,How long do I need to wait for someone to respond to my service request?,7/3/2024
+Customer 293,Hospital,Fraud and Scam,Why did I find unauthorized charges on my account?,12/28/2023
+Customer 294,Hotel,Customer Service,How long do I need to wait for someone to respond to my service request?,6/7/2024
+Customer 295,Bank,Bribery,Is it normal to be asked for additional payment by the staff for quicker services?,2/29/2024
+Customer 296,Hotel,Fraud and Scam,Can you explain why my credit card was charged twice for a single transaction?,6/22/2024
+Customer 297,Hotel,Customer Service,Why does it take forever to resolve even the simplest issues?,1/3/2024
+Customer 298,Hotel,Feedback,How do you plan to improve based on customer feedback like mine?,1/5/2024
+Customer 299,Bank,Bribery,Is it normal to be asked for additional payment by the staff for quicker services?,2/18/2024
+Customer 300,Hotel,Fraud and Scam,Why did I find unauthorized charges on my account?,2/18/2024
+Customer 301,Hotel,Feedback,Can you explain why my experience was so different from what was advertised?,6/25/2024
+Customer 302,Hotel,Bribery,Why was I informed that I could get priority if I paid an unofficial fee?,6/28/2024
+Customer 303,Hospital,Price and Value,Can you explain the hidden fees added to my bill?,5/5/2024
+Customer 304,Bank,Operational Issue,Can you explain why the system was down for hours?,1/1/2024
+Customer 305,Hotel,Feedback,Why wasn't my feedback on the service acknowledged?,1/15/2024
+Customer 306,Bank,Price and Value,Why are the prices so high for such basic services?,6/5/2024
+Customer 307,Hotel,Customer Service,How long do I need to wait for someone to respond to my service request?,12/30/2023
+Customer 308,Hotel,Bribery,Why do I need to pay extra for services that should be standard?,3/7/2024
+Customer 309,Bank,Fraud and Scam,Can you explain why my credit card was charged twice for a single transaction?,9/9/2024
+Customer 310,Bank,Customer Service,How long do I need to wait for someone to respond to my service request?,1/15/2024
+Customer 311,Bank,Operational Issue,"Why are your facilities not maintained properly, causing so many inconveniences?",10/20/2023
+Customer 312,Hospital,Operational Issue,Can you explain why the system was down for hours?,4/8/2024
+Customer 313,Bank,Operational Issue,Can you explain why the system was down for hours?,9/6/2024
+Customer 314,Bank,Price and Value,Can you explain the hidden fees added to my bill?,1/22/2024
+Customer 315,Hospital,Operational Issue,Can you explain why the system was down for hours?,12/21/2023
+Customer 316,Hotel,Customer Service,Why does it take forever to resolve even the simplest issues?,4/7/2024
+Customer 317,Hospital,Price and Value,Why are the prices so high for such basic services?,11/18/2023
+Customer 318,Hotel,Feedback,Why wasn't my feedback on the service acknowledged?,3/15/2024
+Customer 319,Bank,Price and Value,Can you explain the hidden fees added to my bill?,2/15/2024
+Customer 320,Hospital,Customer Service,Why does it take forever to resolve even the simplest issues?,8/25/2024
+Customer 321,Hotel,Feedback,Why wasn't my feedback on the service acknowledged?,7/14/2024
+Customer 322,Hospital,Bribery,Why do I need to pay extra for services that should be standard?,8/15/2024
+Customer 323,Bank,Fraud and Scam,Why did I find unauthorized charges on my account?,8/12/2024
+Customer 324,Bank,Fraud and Scam,Can you explain why my credit card was charged twice for a single transaction?,5/6/2024
+Customer 325,Bank,Customer Service,How long do I need to wait for someone to respond to my service request?,6/22/2024
+Customer 326,Hospital,Fraud and Scam,Why did I find unauthorized charges on my account?,3/25/2024
+Customer 327,Hotel,Bribery,Why was I informed that I could get priority if I paid an unofficial fee?,6/29/2024
+Customer 328,Hospital,Fraud and Scam,Why did I find unauthorized charges on my account?,12/15/2023
+Customer 329,Hospital,Customer Service,Why is the customer service so slow and unresponsive?,9/22/2024
+Customer 330,Bank,Feedback,How do you plan to improve based on customer feedback like mine?,9/30/2024
+Customer 331,Hospital,Fraud and Scam,Can you explain why my credit card was charged twice for a single transaction?,5/3/2024
+Customer 332,Hotel,Feedback,How do you plan to improve based on customer feedback like mine?,10/10/2023
+Customer 333,Hospital,Price and Value,Why are the prices so high for such basic services?,5/13/2024
+Customer 334,Hospital,Price and Value,Why are the prices so high for such basic services?,11/18/2023
+Customer 335,Hospital,Feedback,Can you explain why my experience was so different from what was advertised?,6/14/2024
+Customer 336,Hotel,Fraud and Scam,Why did a suspicious transaction go through without any security verification?,1/21/2024
+Customer 337,Hotel,Customer Service,How long do I need to wait for someone to respond to my service request?,12/10/2023
+Customer 338,Hotel,Bribery,Why was I informed that I could get priority if I paid an unofficial fee?,9/28/2024
+Customer 339,Hotel,Fraud and Scam,Why did a suspicious transaction go through without any security verification?,5/13/2024
+Customer 340,Bank,Customer Service,Why does it take forever to resolve even the simplest issues?,8/24/2024
+Customer 341,Bank,Fraud and Scam,Why did I find unauthorized charges on my account?,10/28/2023
+Customer 342,Bank,Bribery,Why was I informed that I could get priority if I paid an unofficial fee?,4/2/2024
+Customer 343,Hotel,Fraud and Scam,Can you explain why my credit card was charged twice for a single transaction?,10/26/2023
+Customer 344,Hotel,Customer Service,Why does it take forever to resolve even the simplest issues?,8/29/2024
+Customer 345,Bank,Customer Service,How long do I need to wait for someone to respond to my service request?,11/23/2023
+Customer 346,Bank,Price and Value,Why was I billed more than what I had agreed upon?,3/24/2024
+Customer 347,Hospital,Price and Value,Why was I billed more than what I had agreed upon?,1/11/2024
+Customer 348,Hotel,Operational Issue,"Why are your facilities not maintained properly, causing so many inconveniences?",5/17/2024
+Customer 349,Bank,Operational Issue,Why is there always an issue with your online services?,3/3/2024
+Customer 350,Hospital,Price and Value,Can you explain the hidden fees added to my bill?,6/25/2024
+Customer 351,Hotel,Customer Service,How long do I need to wait for someone to respond to my service request?,4/7/2024
+Customer 352,Bank,Fraud and Scam,Why did I find unauthorized charges on my account?,7/26/2024
+Customer 353,Hotel,Bribery,Why do I need to pay extra for services that should be standard?,5/22/2024
+Customer 354,Hotel,Fraud and Scam,Why did I find unauthorized charges on my account?,7/1/2024
+Customer 355,Hotel,Feedback,Why wasn't my feedback on the service acknowledged?,4/16/2024
+Customer 356,Hotel,Fraud and Scam,Why did I find unauthorized charges on my account?,7/1/2024
+Customer 357,Bank,Fraud and Scam,Why did I find unauthorized charges on my account?,11/4/2023
+Customer 358,Bank,Operational Issue,Why is there always an issue with your online services?,2/11/2024
+Customer 359,Hotel,Price and Value,Why are the prices so high for such basic services?,1/23/2024
+Customer 360,Bank,Bribery,Is it normal to be asked for additional payment by the staff for quicker services?,4/24/2024
+Customer 361,Bank,Fraud and Scam,Can you explain why my credit card was charged twice for a single transaction?,1/15/2024
+Customer 362,Hotel,Operational Issue,Why is there always an issue with your online services?,2/18/2024
+Customer 363,Bank,Operational Issue,Why is there always an issue with your online services?,1/12/2024
+Customer 364,Bank,Bribery,Is it normal to be asked for additional payment by the staff for quicker services?,2/26/2024
+Customer 365,Bank,Fraud and Scam,Can you explain why my credit card was charged twice for a single transaction?,11/27/2023
+Customer 366,Hotel,Customer Service,How long do I need to wait for someone to respond to my service request?,10/4/2024
+Customer 367,Hospital,Bribery,Is it normal to be asked for additional payment by the staff for quicker services?,12/19/2023
+Customer 368,Hospital,Price and Value,Why was I billed more than what I had agreed upon?,9/17/2024
+Customer 369,Hospital,Price and Value,Why are the prices so high for such basic services?,5/25/2024
+Customer 370,Hospital,Feedback,How do you plan to improve based on customer feedback like mine?,1/19/2024
+Customer 371,Bank,Operational Issue,"Why are your facilities not maintained properly, causing so many inconveniences?",5/25/2024
+Customer 372,Hospital,Feedback,Why wasn't my feedback on the service acknowledged?,9/5/2024
+Customer 373,Hotel,Operational Issue,Can you explain why the system was down for hours?,7/6/2024
+Customer 374,Hotel,Operational Issue,"Why are your facilities not maintained properly, causing so many inconveniences?",1/24/2024
+Customer 375,Hospital,Fraud and Scam,Why did I find unauthorized charges on my account?,11/13/2023
+Customer 376,Bank,Fraud and Scam,Why did a suspicious transaction go through without any security verification?,11/30/2023
+Customer 377,Hotel,Feedback,Can you explain why my experience was so different from what was advertised?,11/16/2023
+Customer 378,Bank,Price and Value,Why are the prices so high for such basic services?,2/28/2024
+Customer 379,Bank,Bribery,Is it normal to be asked for additional payment by the staff for quicker services?,11/25/2023
+Customer 380,Bank,Price and Value,Can you explain the hidden fees added to my bill?,3/30/2024
+Customer 381,Hotel,Feedback,Can you explain why my experience was so different from what was advertised?,3/16/2024
+Customer 382,Hospital,Customer Service,Why does it take forever to resolve even the simplest issues?,7/26/2024
+Customer 383,Hospital,Customer Service,Why is the customer service so slow and unresponsive?,8/16/2024
+Customer 384,Bank,Customer Service,How long do I need to wait for someone to respond to my service request?,5/21/2024
+Customer 385,Hotel,Feedback,How do you plan to improve based on customer feedback like mine?,3/14/2024
+Customer 386,Hospital,Fraud and Scam,Can you explain why my credit card was charged twice for a single transaction?,1/2/2024
+Customer 387,Bank,Bribery,Is it normal to be asked for additional payment by the staff for quicker services?,5/26/2024
+Customer 388,Hotel,Price and Value,Why was I billed more than what I had agreed upon?,6/26/2024
+Customer 389,Hospital,Fraud and Scam,Can you explain why my credit card was charged twice for a single transaction?,4/15/2024
+Customer 390,Hotel,Fraud and Scam,Can you explain why my credit card was charged twice for a single transaction?,7/23/2024
+Customer 391,Hotel,Bribery,Is it normal to be asked for additional payment by the staff for quicker services?,5/26/2024
+Customer 392,Bank,Customer Service,Why does it take forever to resolve even the simplest issues?,9/8/2024
+Customer 393,Bank,Price and Value,Why are the prices so high for such basic services?,2/2/2024
+Customer 394,Hospital,Feedback,Why wasn't my feedback on the service acknowledged?,1/28/2024
+Customer 395,Hotel,Fraud and Scam,Can you explain why my credit card was charged twice for a single transaction?,7/17/2024
+Customer 396,Bank,Bribery,Is it normal to be asked for additional payment by the staff for quicker services?,11/13/2023
+Customer 397,Bank,Operational Issue,"Why are your facilities not maintained properly, causing so many inconveniences?",5/29/2024
+Customer 398,Bank,Customer Service,Why is the customer service so slow and unresponsive?,4/12/2024
+Customer 399,Bank,Customer Service,Why does it take forever to resolve even the simplest issues?,4/7/2024
+Customer 400,Bank,Price and Value,Can you explain the hidden fees added to my bill?,11/9/2023
+Customer 401,Hotel,Operational Issue,"Why are your facilities not maintained properly, causing so many inconveniences?",9/20/2024
+Customer 402,Hospital,Fraud and Scam,Why did I find unauthorized charges on my account?,12/3/2023
+Customer 403,Hospital,Fraud and Scam,Can you explain why my credit card was charged twice for a single transaction?,4/1/2024
+Customer 404,Hotel,Price and Value,Why are the prices so high for such basic services?,8/5/2024
+Customer 405,Hotel,Fraud and Scam,Can you explain why my credit card was charged twice for a single transaction?,1/8/2024
+Customer 406,Hospital,Fraud and Scam,Why did a suspicious transaction go through without any security verification?,2/12/2024
+Customer 407,Bank,Feedback,Why wasn't my feedback on the service acknowledged?,12/30/2023
+Customer 408,Hospital,Feedback,Can you explain why my experience was so different from what was advertised?,2/11/2024
+Customer 409,Bank,Operational Issue,Can you explain why the system was down for hours?,1/8/2024
+Customer 410,Hotel,Customer Service,Why is the customer service so slow and unresponsive?,6/19/2024
+Customer 411,Bank,Customer Service,Why is the customer service so slow and unresponsive?,2/16/2024
+Customer 412,Hospital,Operational Issue,Why is there always an issue with your online services?,6/23/2024
+Customer 413,Bank,Price and Value,Why are the prices so high for such basic services?,12/22/2023
+Customer 414,Hotel,Fraud and Scam,Why did I find unauthorized charges on my account?,10/28/2023
+Customer 415,Bank,Operational Issue,Why is there always an issue with your online services?,6/30/2024
+Customer 416,Hospital,Price and Value,Why was I billed more than what I had agreed upon?,8/24/2024
+Customer 417,Hospital,Customer Service,How long do I need to wait for someone to respond to my service request?,7/12/2024
+Customer 418,Hotel,Bribery,Is it normal to be asked for additional payment by the staff for quicker services?,10/12/2023
+Customer 419,Hospital,Feedback,Can you explain why my experience was so different from what was advertised?,3/26/2024
+Customer 420,Hotel,Bribery,Why do I need to pay extra for services that should be standard?,12/25/2023
+Customer 421,Hospital,Fraud and Scam,Why did I find unauthorized charges on my account?,9/20/2024
+Customer 422,Hospital,Operational Issue,Why is there always an issue with your online services?,7/30/2024
+Customer 423,Hospital,Price and Value,Why was I billed more than what I had agreed upon?,5/25/2024
+Customer 424,Hotel,Feedback,How do you plan to improve based on customer feedback like mine?,11/22/2023
+Customer 425,Hospital,Bribery,Why do I need to pay extra for services that should be standard?,10/3/2024
+Customer 426,Bank,Customer Service,Why is the customer service so slow and unresponsive?,5/4/2024
+Customer 427,Hotel,Price and Value,Why are the prices so high for such basic services?,8/12/2024
+Customer 428,Bank,Price and Value,Why was I billed more than what I had agreed upon?,1/20/2024
+Customer 429,Hotel,Customer Service,Why is the customer service so slow and unresponsive?,7/29/2024
+Customer 430,Hotel,Price and Value,Can you explain the hidden fees added to my bill?,3/13/2024
+Customer 431,Bank,Fraud and Scam,Can you explain why my credit card was charged twice for a single transaction?,7/19/2024
+Customer 432,Bank,Price and Value,Can you explain the hidden fees added to my bill?,8/23/2024
+Customer 433,Bank,Customer Service,How long do I need to wait for someone to respond to my service request?,9/20/2024
+Customer 434,Bank,Price and Value,Can you explain the hidden fees added to my bill?,8/13/2024
+Customer 435,Bank,Bribery,Why do I need to pay extra for services that should be standard?,6/11/2024
+Customer 436,Hotel,Fraud and Scam,Why did a suspicious transaction go through without any security verification?,4/15/2024
+Customer 437,Bank,Feedback,Can you explain why my experience was so different from what was advertised?,2/9/2024
+Customer 438,Bank,Operational Issue,Can you explain why the system was down for hours?,4/4/2024
+Customer 439,Hotel,Operational Issue,Why is there always an issue with your online services?,8/4/2024
+Customer 440,Hotel,Price and Value,Why was I billed more than what I had agreed upon?,9/19/2024
+Customer 441,Hotel,Feedback,Can you explain why my experience was so different from what was advertised?,5/24/2024
+Customer 442,Hotel,Operational Issue,Why is there always an issue with your online services?,8/9/2024
+Customer 443,Bank,Feedback,Can you explain why my experience was so different from what was advertised?,8/18/2024
+Customer 444,Hotel,Bribery,Is it normal to be asked for additional payment by the staff for quicker services?,10/17/2023
+Customer 445,Bank,Operational Issue,"Why are your facilities not maintained properly, causing so many inconveniences?",11/23/2023
+Customer 446,Bank,Price and Value,Can you explain the hidden fees added to my bill?,12/23/2023
+Customer 447,Hospital,Customer Service,Why is the customer service so slow and unresponsive?,10/14/2023
+Customer 448,Bank,Fraud and Scam,Can you explain why my credit card was charged twice for a single transaction?,2/10/2024
+Customer 449,Bank,Customer Service,Why does it take forever to resolve even the simplest issues?,5/18/2024
+Customer 450,Hospital,Feedback,Why wasn't my feedback on the service acknowledged?,9/7/2024
+Customer 451,Hotel,Feedback,Why wasn't my feedback on the service acknowledged?,11/21/2023
+Customer 452,Bank,Operational Issue,"Why are your facilities not maintained properly, causing so many inconveniences?",9/8/2024
+Customer 453,Hotel,Operational Issue,"Why are your facilities not maintained properly, causing so many inconveniences?",12/4/2023
+Customer 454,Bank,Feedback,Why wasn't my feedback on the service acknowledged?,8/29/2024
+Customer 455,Bank,Bribery,Is it normal to be asked for additional payment by the staff for quicker services?,1/6/2024
+Customer 456,Hospital,Customer Service,Why is the customer service so slow and unresponsive?,12/18/2023
+Customer 457,Bank,Fraud and Scam,Can you explain why my credit card was charged twice for a single transaction?,10/25/2023
+Customer 458,Hotel,Feedback,Can you explain why my experience was so different from what was advertised?,8/26/2024
+Customer 459,Hospital,Feedback,How do you plan to improve based on customer feedback like mine?,11/9/2023
+Customer 460,Bank,Customer Service,How long do I need to wait for someone to respond to my service request?,1/25/2024
+Customer 461,Hotel,Price and Value,Why was I billed more than what I had agreed upon?,12/19/2023
+Customer 462,Hospital,Customer Service,Why does it take forever to resolve even the simplest issues?,3/7/2024
+Customer 463,Hotel,Feedback,Can you explain why my experience was so different from what was advertised?,11/11/2023
+Customer 464,Hotel,Fraud and Scam,Why did I find unauthorized charges on my account?,3/23/2024
+Customer 465,Bank,Customer Service,How long do I need to wait for someone to respond to my service request?,11/29/2023
+Customer 466,Hospital,Feedback,Why wasn't my feedback on the service acknowledged?,4/27/2024
+Customer 467,Hospital,Operational Issue,"Why are your facilities not maintained properly, causing so many inconveniences?",10/5/2024
+Customer 468,Hotel,Operational Issue,Can you explain why the system was down for hours?,2/22/2024
+Customer 469,Hospital,Price and Value,Why are the prices so high for such basic services?,5/21/2024
+Customer 470,Bank,Operational Issue,Can you explain why the system was down for hours?,11/16/2023
+Customer 471,Bank,Price and Value,Why are the prices so high for such basic services?,10/20/2023
+Customer 472,Hotel,Bribery,Why do I need to pay extra for services that should be standard?,8/8/2024
+Customer 473,Hotel,Customer Service,How long do I need to wait for someone to respond to my service request?,3/31/2024
+Customer 474,Hotel,Feedback,Why wasn't my feedback on the service acknowledged?,8/4/2024
+Customer 475,Hospital,Feedback,Can you explain why my experience was so different from what was advertised?,5/29/2024
+Customer 476,Bank,Operational Issue,"Why are your facilities not maintained properly, causing so many inconveniences?",5/13/2024
+Customer 477,Hospital,Fraud and Scam,Why did I find unauthorized charges on my account?,9/12/2024
+Customer 478,Hotel,Operational Issue,"Why are your facilities not maintained properly, causing so many inconveniences?",5/22/2024
+Customer 479,Bank,Operational Issue,"Why are your facilities not maintained properly, causing so many inconveniences?",4/28/2024
+Customer 480,Hospital,Operational Issue,"Why are your facilities not maintained properly, causing so many inconveniences?",8/14/2024
+Customer 481,Hospital,Fraud and Scam,Why did a suspicious transaction go through without any security verification?,1/13/2024
+Customer 482,Bank,Operational Issue,Why is there always an issue with your online services?,7/29/2024
+Customer 483,Hotel,Bribery,Why was I informed that I could get priority if I paid an unofficial fee?,4/14/2024
+Customer 484,Hotel,Fraud and Scam,Can you explain why my credit card was charged twice for a single transaction?,12/19/2023
+Customer 485,Hotel,Feedback,Why wasn't my feedback on the service acknowledged?,10/15/2023
+Customer 486,Hospital,Customer Service,Why is the customer service so slow and unresponsive?,1/2/2024
+Customer 487,Bank,Bribery,Why do I need to pay extra for services that should be standard?,8/7/2024
+Customer 488,Bank,Bribery,Is it normal to be asked for additional payment by the staff for quicker services?,3/25/2024
+Customer 489,Bank,Bribery,Why was I informed that I could get priority if I paid an unofficial fee?,10/10/2023
+Customer 490,Hospital,Bribery,Is it normal to be asked for additional payment by the staff for quicker services?,5/6/2024
+Customer 491,Bank,Customer Service,Why is the customer service so slow and unresponsive?,2/28/2024
+Customer 492,Bank,Price and Value,Can you explain the hidden fees added to my bill?,8/15/2024
+Customer 493,Hospital,Customer Service,Why is the customer service so slow and unresponsive?,8/13/2024
+Customer 494,Bank,Customer Service,Why is the customer service so slow and unresponsive?,3/29/2024
+Customer 495,Hospital,Fraud and Scam,Can you explain why my credit card was charged twice for a single transaction?,11/29/2023
+Customer 496,Hospital,Customer Service,How long do I need to wait for someone to respond to my service request?,6/25/2024
+Customer 497,Bank,Operational Issue,Why is there always an issue with your online services?,11/20/2023
+Customer 498,Bank,Feedback,Can you explain why my experience was so different from what was advertised?,4/18/2024
+Customer 499,Hotel,Feedback,Why wasn't my feedback on the service acknowledged?,4/26/2024
+Customer 500,Hospital,Operational Issue,Why is there always an issue with your online services?,3/12/2024
+Customer 501,Hotel,Bribery,Why do I need to pay extra for services that should be standard?,8/30/2024
+Customer 502,Hospital,Fraud and Scam,Why did I find unauthorized charges on my account?,7/19/2024
+Customer 503,Bank,Customer Service,How long do I need to wait for someone to respond to my service request?,3/25/2024
+Customer 504,Hotel,Bribery,Why do I need to pay extra for services that should be standard?,2/24/2024
+Customer 505,Hotel,Operational Issue,Can you explain why the system was down for hours?,5/27/2024
+Customer 506,Hospital,Bribery,Is it normal to be asked for additional payment by the staff for quicker services?,2/29/2024
+Customer 507,Hotel,Operational Issue,Can you explain why the system was down for hours?,3/8/2024
+Customer 508,Hospital,Customer Service,Why is the customer service so slow and unresponsive?,3/31/2024
+Customer 509,Hospital,Customer Service,Why is the customer service so slow and unresponsive?,1/10/2024
+Customer 510,Bank,Fraud and Scam,Why did a suspicious transaction go through without any security verification?,11/2/2023
+Customer 511,Hospital,Feedback,How do you plan to improve based on customer feedback like mine?,9/24/2024
+Customer 512,Hospital,Customer Service,How long do I need to wait for someone to respond to my service request?,8/22/2024
+Customer 513,Hotel,Bribery,Why do I need to pay extra for services that should be standard?,3/27/2024
+Customer 514,Hotel,Bribery,Why do I need to pay extra for services that should be standard?,11/22/2023
+Customer 515,Bank,Fraud and Scam,Why did a suspicious transaction go through without any security verification?,1/17/2024
+Customer 516,Hotel,Price and Value,Why are the prices so high for such basic services?,3/10/2024
+Customer 517,Bank,Price and Value,Why are the prices so high for such basic services?,4/27/2024
+Customer 518,Bank,Bribery,Why was I informed that I could get priority if I paid an unofficial fee?,1/3/2024
+Customer 519,Hospital,Fraud and Scam,Why did I find unauthorized charges on my account?,6/20/2024
+Customer 520,Bank,Feedback,Why wasn't my feedback on the service acknowledged?,5/22/2024
+Customer 521,Hotel,Price and Value,Why was I billed more than what I had agreed upon?,4/19/2024
+Customer 522,Bank,Customer Service,Why is the customer service so slow and unresponsive?,3/18/2024
+Customer 523,Bank,Feedback,Why wasn't my feedback on the service acknowledged?,10/10/2023
+Customer 524,Hotel,Fraud and Scam,Why did I find unauthorized charges on my account?,7/5/2024
+Customer 525,Bank,Bribery,Why was I informed that I could get priority if I paid an unofficial fee?,10/21/2023
+Customer 526,Bank,Fraud and Scam,Why did I find unauthorized charges on my account?,8/30/2024
+Customer 527,Hospital,Price and Value,Why are the prices so high for such basic services?,3/7/2024
+Customer 528,Hotel,Bribery,Is it normal to be asked for additional payment by the staff for quicker services?,7/14/2024
+Customer 529,Bank,Customer Service,Why is the customer service so slow and unresponsive?,2/27/2024
+Customer 530,Bank,Customer Service,How long do I need to wait for someone to respond to my service request?,8/26/2024
+Customer 531,Hotel,Operational Issue,Why is there always an issue with your online services?,8/7/2024
+Customer 532,Hotel,Fraud and Scam,Can you explain why my credit card was charged twice for a single transaction?,3/13/2024
+Customer 533,Hotel,Price and Value,Why are the prices so high for such basic services?,3/3/2024
+Customer 534,Hospital,Operational Issue,Why is there always an issue with your online services?,4/13/2024
+Customer 535,Hotel,Customer Service,Why does it take forever to resolve even the simplest issues?,7/10/2024
+Customer 536,Hotel,Customer Service,How long do I need to wait for someone to respond to my service request?,1/7/2024
+Customer 537,Hotel,Operational Issue,Can you explain why the system was down for hours?,10/31/2023
+Customer 538,Hospital,Bribery,Is it normal to be asked for additional payment by the staff for quicker services?,10/6/2023
+Customer 539,Hotel,Customer Service,How long do I need to wait for someone to respond to my service request?,11/10/2023
+Customer 540,Hospital,Feedback,How do you plan to improve based on customer feedback like mine?,7/18/2024
+Customer 541,Bank,Operational Issue,Why is there always an issue with your online services?,11/7/2023
+Customer 542,Hospital,Feedback,Can you explain why my experience was so different from what was advertised?,9/18/2024
+Customer 543,Hospital,Customer Service,Why is the customer service so slow and unresponsive?,1/28/2024
+Customer 544,Bank,Customer Service,Why is the customer service so slow and unresponsive?,9/25/2024
+Customer 545,Bank,Price and Value,Can you explain the hidden fees added to my bill?,2/20/2024
+Customer 546,Bank,Fraud and Scam,Can you explain why my credit card was charged twice for a single transaction?,7/1/2024
+Customer 547,Hospital,Customer Service,How long do I need to wait for someone to respond to my service request?,10/21/2023
+Customer 548,Hotel,Feedback,How do you plan to improve based on customer feedback like mine?,2/14/2024
+Customer 549,Hospital,Customer Service,Why does it take forever to resolve even the simplest issues?,8/2/2024
+Customer 550,Hotel,Fraud and Scam,Why did I find unauthorized charges on my account?,12/6/2023
+Customer 551,Hospital,Operational Issue,"Why are your facilities not maintained properly, causing so many inconveniences?",10/27/2023
+Customer 552,Hotel,Customer Service,How long do I need to wait for someone to respond to my service request?,6/30/2024
+Customer 553,Hospital,Fraud and Scam,Why did a suspicious transaction go through without any security verification?,8/8/2024
+Customer 554,Bank,Bribery,Why was I informed that I could get priority if I paid an unofficial fee?,12/26/2023
+Customer 555,Hospital,Feedback,How do you plan to improve based on customer feedback like mine?,3/14/2024
+Customer 556,Bank,Bribery,Why was I informed that I could get priority if I paid an unofficial fee?,1/27/2024
+Customer 557,Hospital,Operational Issue,Why is there always an issue with your online services?,5/6/2024
+Customer 558,Hospital,Price and Value,Why was I billed more than what I had agreed upon?,4/3/2024
+Customer 559,Hospital,Operational Issue,Why is there always an issue with your online services?,11/23/2023
+Customer 560,Hospital,Operational Issue,"Why are your facilities not maintained properly, causing so many inconveniences?",10/20/2023
+Customer 561,Bank,Feedback,Can you explain why my experience was so different from what was advertised?,6/6/2024
+Customer 562,Hotel,Fraud and Scam,Can you explain why my credit card was charged twice for a single transaction?,7/10/2024
+Customer 563,Hotel,Feedback,Can you explain why my experience was so different from what was advertised?,3/12/2024
+Customer 564,Hotel,Feedback,How do you plan to improve based on customer feedback like mine?,6/10/2024
+Customer 565,Bank,Operational Issue,Can you explain why the system was down for hours?,7/20/2024
+Customer 566,Bank,Feedback,How do you plan to improve based on customer feedback like mine?,4/21/2024
+Customer 567,Hospital,Bribery,Is it normal to be asked for additional payment by the staff for quicker services?,5/11/2024
+Customer 568,Hotel,Feedback,Why wasn't my feedback on the service acknowledged?,8/30/2024
+Customer 569,Hospital,Feedback,Can you explain why my experience was so different from what was advertised?,7/16/2024
+Customer 570,Hotel,Operational Issue,Why is there always an issue with your online services?,7/28/2024
+Customer 571,Bank,Operational Issue,"Why are your facilities not maintained properly, causing so many inconveniences?",1/28/2024
+Customer 572,Hotel,Price and Value,Why are the prices so high for such basic services?,12/3/2023
+Customer 573,Hotel,Feedback,Can you explain why my experience was so different from what was advertised?,1/21/2024
+Customer 574,Hospital,Fraud and Scam,Can you explain why my credit card was charged twice for a single transaction?,2/6/2024
+Customer 575,Bank,Price and Value,Why was I billed more than what I had agreed upon?,2/24/2024
+Customer 576,Hotel,Operational Issue,"Why are your facilities not maintained properly, causing so many inconveniences?",1/17/2024
+Customer 577,Hospital,Operational Issue,"Why are your facilities not maintained properly, causing so many inconveniences?",2/16/2024
+Customer 578,Hotel,Feedback,How do you plan to improve based on customer feedback like mine?,8/24/2024
+Customer 579,Bank,Feedback,Can you explain why my experience was so different from what was advertised?,8/22/2024
+Customer 580,Hotel,Price and Value,Can you explain the hidden fees added to my bill?,5/21/2024
+Customer 581,Hotel,Price and Value,Can you explain the hidden fees added to my bill?,12/18/2023
+Customer 582,Hotel,Operational Issue,Can you explain why the system was down for hours?,7/5/2024
+Customer 583,Bank,Operational Issue,Can you explain why the system was down for hours?,10/12/2023
+Customer 584,Hospital,Bribery,Why was I informed that I could get priority if I paid an unofficial fee?,5/24/2024
+Customer 585,Bank,Fraud and Scam,Why did a suspicious transaction go through without any security verification?,7/4/2024
+Customer 586,Hotel,Customer Service,How long do I need to wait for someone to respond to my service request?,8/27/2024
+Customer 587,Bank,Customer Service,Why does it take forever to resolve even the simplest issues?,6/22/2024
+Customer 588,Hotel,Feedback,How do you plan to improve based on customer feedback like mine?,7/2/2024
+Customer 589,Hospital,Price and Value,Why are the prices so high for such basic services?,4/8/2024
+Customer 590,Bank,Bribery,Why do I need to pay extra for services that should be standard?,9/10/2024
+Customer 591,Hospital,Bribery,Why do I need to pay extra for services that should be standard?,6/9/2024
+Customer 592,Bank,Customer Service,Why is the customer service so slow and unresponsive?,11/7/2023
+Customer 593,Bank,Feedback,Can you explain why my experience was so different from what was advertised?,12/9/2023
+Customer 594,Hospital,Bribery,Why was I informed that I could get priority if I paid an unofficial fee?,1/2/2024
+Customer 595,Hospital,Bribery,Why was I informed that I could get priority if I paid an unofficial fee?,4/26/2024
+Customer 596,Hotel,Customer Service,Why is the customer service so slow and unresponsive?,1/12/2024
+Customer 597,Hotel,Bribery,Is it normal to be asked for additional payment by the staff for quicker services?,9/26/2024
+Customer 598,Hotel,Fraud and Scam,Why did a suspicious transaction go through without any security verification?,1/14/2024
+Customer 599,Hotel,Feedback,Why wasn't my feedback on the service acknowledged?,9/7/2024
+Customer 600,Bank,Feedback,Why wasn't my feedback on the service acknowledged?,4/26/2024
+Customer 601,Bank,Price and Value,Why are the prices so high for such basic services?,1/27/2024
+Customer 602,Bank,Bribery,Why do I need to pay extra for services that should be standard?,2/12/2024
+Customer 603,Hospital,Bribery,Is it normal to be asked for additional payment by the staff for quicker services?,1/27/2024
+Customer 604,Bank,Feedback,Why wasn't my feedback on the service acknowledged?,12/26/2023
+Customer 605,Bank,Operational Issue,Can you explain why the system was down for hours?,4/19/2024
+Customer 606,Hotel,Price and Value,Why are the prices so high for such basic services?,3/11/2024
+Customer 607,Hotel,Price and Value,Can you explain the hidden fees added to my bill?,3/17/2024
+Customer 608,Bank,Customer Service,Why is the customer service so slow and unresponsive?,2/7/2024
+Customer 609,Bank,Feedback,How do you plan to improve based on customer feedback like mine?,1/30/2024
+Customer 610,Hospital,Customer Service,Why is the customer service so slow and unresponsive?,5/17/2024
+Customer 611,Hotel,Fraud and Scam,Why did I find unauthorized charges on my account?,8/10/2024
+Customer 612,Hospital,Fraud and Scam,Why did I find unauthorized charges on my account?,9/14/2024
+Customer 613,Hospital,Operational Issue,Can you explain why the system was down for hours?,3/19/2024
+Customer 614,Hospital,Fraud and Scam,Why did I find unauthorized charges on my account?,11/25/2023
+Customer 615,Hotel,Feedback,How do you plan to improve based on customer feedback like mine?,4/20/2024
+Customer 616,Hotel,Price and Value,Why was I billed more than what I had agreed upon?,3/15/2024
+Customer 617,Hospital,Bribery,Why do I need to pay extra for services that should be standard?,2/19/2024
+Customer 618,Hotel,Feedback,How do you plan to improve based on customer feedback like mine?,10/26/2023
+Customer 619,Hotel,Customer Service,Why does it take forever to resolve even the simplest issues?,12/5/2023
+Customer 620,Hospital,Customer Service,Why is the customer service so slow and unresponsive?,12/1/2023
+Customer 621,Hotel,Feedback,Why wasn't my feedback on the service acknowledged?,7/27/2024
+Customer 622,Hotel,Price and Value,Why was I billed more than what I had agreed upon?,10/3/2024
+Customer 623,Bank,Price and Value,Why was I billed more than what I had agreed upon?,9/23/2024
+Customer 624,Hospital,Price and Value,Why are the prices so high for such basic services?,8/23/2024
+Customer 625,Hotel,Price and Value,Why was I billed more than what I had agreed upon?,8/16/2024
+Customer 626,Hotel,Operational Issue,"Why are your facilities not maintained properly, causing so many inconveniences?",1/2/2024
+Customer 627,Hotel,Fraud and Scam,Why did a suspicious transaction go through without any security verification?,11/25/2023
+Customer 628,Hotel,Operational Issue,"Why are your facilities not maintained properly, causing so many inconveniences?",7/16/2024
+Customer 629,Hotel,Customer Service,Why does it take forever to resolve even the simplest issues?,2/19/2024
+Customer 630,Bank,Fraud and Scam,Why did I find unauthorized charges on my account?,7/3/2024
+Customer 631,Bank,Bribery,Why was I informed that I could get priority if I paid an unofficial fee?,1/31/2024
+Customer 632,Hotel,Operational Issue,Why is there always an issue with your online services?,10/29/2023
+Customer 633,Hospital,Feedback,Why wasn't my feedback on the service acknowledged?,1/20/2024
+Customer 634,Hospital,Feedback,How do you plan to improve based on customer feedback like mine?,2/22/2024
+Customer 635,Bank,Feedback,Why wasn't my feedback on the service acknowledged?,10/21/2023
+Customer 636,Hotel,Customer Service,Why is the customer service so slow and unresponsive?,6/12/2024
+Customer 637,Bank,Feedback,How do you plan to improve based on customer feedback like mine?,12/24/2023
+Customer 638,Hotel,Price and Value,Why are the prices so high for such basic services?,11/21/2023
+Customer 639,Hotel,Customer Service,How long do I need to wait for someone to respond to my service request?,5/4/2024
+Customer 640,Bank,Feedback,How do you plan to improve based on customer feedback like mine?,5/19/2024
+Customer 641,Bank,Price and Value,Why are the prices so high for such basic services?,8/19/2024
+Customer 642,Hotel,Feedback,Why wasn't my feedback on the service acknowledged?,10/11/2023
+Customer 643,Hotel,Operational Issue,Why is there always an issue with your online services?,10/28/2023
+Customer 644,Hotel,Price and Value,Can you explain the hidden fees added to my bill?,3/24/2024
+Customer 645,Hospital,Bribery,Why do I need to pay extra for services that should be standard?,2/23/2024
+Customer 646,Hospital,Customer Service,How long do I need to wait for someone to respond to my service request?,12/27/2023
+Customer 647,Hotel,Fraud and Scam,Can you explain why my credit card was charged twice for a single transaction?,6/19/2024
+Customer 648,Hotel,Operational Issue,Why is there always an issue with your online services?,9/30/2024
+Customer 649,Hospital,Operational Issue,"Why are your facilities not maintained properly, causing so many inconveniences?",1/14/2024
+Customer 650,Hospital,Feedback,Can you explain why my experience was so different from what was advertised?,6/13/2024
+Customer 651,Bank,Feedback,Why wasn't my feedback on the service acknowledged?,5/27/2024
+Customer 652,Hospital,Customer Service,Why does it take forever to resolve even the simplest issues?,5/31/2024
+Customer 653,Hotel,Customer Service,Why is the customer service so slow and unresponsive?,1/6/2024
+Customer 654,Bank,Fraud and Scam,Why did I find unauthorized charges on my account?,6/16/2024
+Customer 655,Hospital,Operational Issue,Can you explain why the system was down for hours?,6/5/2024
+Customer 656,Hotel,Fraud and Scam,Why did a suspicious transaction go through without any security verification?,11/29/2023
+Customer 657,Bank,Price and Value,Can you explain the hidden fees added to my bill?,7/6/2024
+Customer 658,Hospital,Customer Service,How long do I need to wait for someone to respond to my service request?,6/17/2024
+Customer 659,Hotel,Price and Value,Can you explain the hidden fees added to my bill?,10/27/2023
+Customer 660,Hospital,Fraud and Scam,Why did a suspicious transaction go through without any security verification?,6/19/2024
+Customer 661,Hospital,Feedback,How do you plan to improve based on customer feedback like mine?,4/5/2024
+Customer 662,Hospital,Bribery,Is it normal to be asked for additional payment by the staff for quicker services?,11/5/2023
+Customer 663,Hotel,Bribery,Is it normal to be asked for additional payment by the staff for quicker services?,8/30/2024
+Customer 664,Bank,Feedback,Can you explain why my experience was so different from what was advertised?,8/19/2024
+Customer 665,Bank,Fraud and Scam,Why did a suspicious transaction go through without any security verification?,2/10/2024
+Customer 666,Bank,Price and Value,Why was I billed more than what I had agreed upon?,4/3/2024
+Customer 667,Hospital,Feedback,Can you explain why my experience was so different from what was advertised?,6/29/2024
+Customer 668,Hotel,Feedback,Can you explain why my experience was so different from what was advertised?,12/27/2023
+Customer 669,Hotel,Operational Issue,Can you explain why the system was down for hours?,3/27/2024
+Customer 670,Hospital,Bribery,Why do I need to pay extra for services that should be standard?,12/4/2023
+Customer 671,Hotel,Operational Issue,Why is there always an issue with your online services?,2/6/2024
+Customer 672,Bank,Operational Issue,Can you explain why the system was down for hours?,11/2/2023
+Customer 673,Bank,Fraud and Scam,Why did a suspicious transaction go through without any security verification?,8/15/2024
+Customer 674,Bank,Bribery,Is it normal to be asked for additional payment by the staff for quicker services?,6/29/2024
+Customer 675,Hospital,Feedback,How do you plan to improve based on customer feedback like mine?,5/12/2024
+Customer 676,Hospital,Fraud and Scam,Why did a suspicious transaction go through without any security verification?,12/3/2023
+Customer 677,Hospital,Price and Value,Why was I billed more than what I had agreed upon?,2/7/2024
+Customer 678,Hotel,Operational Issue,Why is there always an issue with your online services?,1/23/2024
+Customer 679,Hotel,Bribery,Why was I informed that I could get priority if I paid an unofficial fee?,7/6/2024
+Customer 680,Bank,Customer Service,Why is the customer service so slow and unresponsive?,10/10/2023
+Customer 681,Bank,Feedback,Can you explain why my experience was so different from what was advertised?,1/14/2024
+Customer 682,Hospital,Operational Issue,Why is there always an issue with your online services?,11/26/2023
+Customer 683,Hospital,Customer Service,Why does it take forever to resolve even the simplest issues?,1/30/2024
+Customer 684,Hotel,Bribery,Why do I need to pay extra for services that should be standard?,1/9/2024
+Customer 685,Hospital,Bribery,Why was I informed that I could get priority if I paid an unofficial fee?,9/19/2024
+Customer 686,Bank,Feedback,Why wasn't my feedback on the service acknowledged?,3/29/2024
+Customer 687,Hotel,Price and Value,Can you explain the hidden fees added to my bill?,5/12/2024
+Customer 688,Hospital,Feedback,How do you plan to improve based on customer feedback like mine?,6/21/2024
+Customer 689,Hospital,Feedback,Why wasn't my feedback on the service acknowledged?,11/9/2023
+Customer 690,Hotel,Customer Service,How long do I need to wait for someone to respond to my service request?,1/6/2024
+Customer 691,Bank,Feedback,How do you plan to improve based on customer feedback like mine?,4/29/2024
+Customer 692,Hospital,Feedback,Why wasn't my feedback on the service acknowledged?,12/15/2023
+Customer 693,Hospital,Bribery,Why do I need to pay extra for services that should be standard?,2/27/2024
+Customer 694,Bank,Fraud and Scam,Why did a suspicious transaction go through without any security verification?,4/29/2024
+Customer 695,Hospital,Bribery,Why was I informed that I could get priority if I paid an unofficial fee?,10/24/2023
+Customer 696,Hotel,Operational Issue,Can you explain why the system was down for hours?,2/19/2024
+Customer 697,Hotel,Feedback,Why wasn't my feedback on the service acknowledged?,6/21/2024
+Customer 698,Hotel,Operational Issue,"Why are your facilities not maintained properly, causing so many inconveniences?",3/10/2024
+Customer 699,Bank,Feedback,Can you explain why my experience was so different from what was advertised?,5/24/2024
+Customer 700,Bank,Bribery,Is it normal to be asked for additional payment by the staff for quicker services?,12/24/2023
+Customer 701,Hotel,Fraud and Scam,Why did a suspicious transaction go through without any security verification?,12/14/2023
+Customer 702,Hospital,Bribery,Why do I need to pay extra for services that should be standard?,10/24/2023
+Customer 703,Hospital,Price and Value,Why was I billed more than what I had agreed upon?,6/2/2024
+Customer 704,Hotel,Feedback,Why wasn't my feedback on the service acknowledged?,7/12/2024
+Customer 705,Hospital,Feedback,Why wasn't my feedback on the service acknowledged?,8/3/2024
+Customer 706,Bank,Price and Value,Why are the prices so high for such basic services?,6/6/2024
+Customer 707,Hotel,Feedback,Why wasn't my feedback on the service acknowledged?,1/12/2024
+Customer 708,Bank,Price and Value,Why was I billed more than what I had agreed upon?,11/4/2023
+Customer 709,Hotel,Customer Service,Why does it take forever to resolve even the simplest issues?,5/13/2024
+Customer 710,Hospital,Customer Service,Why is the customer service so slow and unresponsive?,11/14/2023
+Customer 711,Hotel,Customer Service,How long do I need to wait for someone to respond to my service request?,3/6/2024
+Customer 712,Hotel,Customer Service,How long do I need to wait for someone to respond to my service request?,5/21/2024
+Customer 713,Hotel,Operational Issue,Can you explain why the system was down for hours?,11/5/2023
+Customer 714,Hotel,Operational Issue,Can you explain why the system was down for hours?,5/8/2024
+Customer 715,Hospital,Operational Issue,Can you explain why the system was down for hours?,2/10/2024
+Customer 716,Hospital,Price and Value,Why was I billed more than what I had agreed upon?,10/23/2023
+Customer 717,Hospital,Feedback,Can you explain why my experience was so different from what was advertised?,3/13/2024
+Customer 718,Bank,Price and Value,Why was I billed more than what I had agreed upon?,5/31/2024
+Customer 719,Hospital,Operational Issue,Why is there always an issue with your online services?,7/22/2024
+Customer 720,Bank,Feedback,Why wasn't my feedback on the service acknowledged?,11/19/2023
+Customer 721,Hotel,Feedback,Can you explain why my experience was so different from what was advertised?,12/11/2023
+Customer 722,Hospital,Fraud and Scam,Why did a suspicious transaction go through without any security verification?,8/29/2024
+Customer 723,Hotel,Customer Service,Why is the customer service so slow and unresponsive?,1/27/2024
+Customer 724,Bank,Bribery,Is it normal to be asked for additional payment by the staff for quicker services?,4/13/2024
+Customer 725,Hotel,Bribery,Why do I need to pay extra for services that should be standard?,11/25/2023
+Customer 726,Bank,Bribery,Why do I need to pay extra for services that should be standard?,10/3/2024
+Customer 727,Hospital,Operational Issue,"Why are your facilities not maintained properly, causing so many inconveniences?",11/20/2023
+Customer 728,Hotel,Operational Issue,"Why are your facilities not maintained properly, causing so many inconveniences?",11/16/2023
+Customer 729,Bank,Customer Service,Why does it take forever to resolve even the simplest issues?,1/9/2024
+Customer 730,Hospital,Price and Value,Why are the prices so high for such basic services?,1/5/2024
+Customer 731,Bank,Customer Service,Why is the customer service so slow and unresponsive?,4/11/2024
+Customer 732,Hospital,Fraud and Scam,Why did I find unauthorized charges on my account?,2/6/2024
+Customer 733,Hospital,Fraud and Scam,Why did I find unauthorized charges on my account?,1/5/2024
+Customer 734,Hotel,Fraud and Scam,Can you explain why my credit card was charged twice for a single transaction?,1/27/2024
+Customer 735,Hotel,Fraud and Scam,Why did I find unauthorized charges on my account?,2/22/2024
+Customer 736,Bank,Operational Issue,Why is there always an issue with your online services?,5/21/2024
+Customer 737,Bank,Customer Service,Why is the customer service so slow and unresponsive?,11/5/2023
+Customer 738,Hotel,Fraud and Scam,Can you explain why my credit card was charged twice for a single transaction?,6/3/2024
+Customer 739,Bank,Fraud and Scam,Can you explain why my credit card was charged twice for a single transaction?,1/1/2024
+Customer 740,Hospital,Bribery,Is it normal to be asked for additional payment by the staff for quicker services?,8/9/2024
+Customer 741,Hospital,Feedback,Can you explain why my experience was so different from what was advertised?,1/27/2024
+Customer 742,Bank,Price and Value,Why are the prices so high for such basic services?,7/9/2024
+Customer 743,Hotel,Feedback,How do you plan to improve based on customer feedback like mine?,7/27/2024
+Customer 744,Bank,Fraud and Scam,Why did I find unauthorized charges on my account?,11/23/2023
+Customer 745,Hospital,Price and Value,Why are the prices so high for such basic services?,10/9/2023
+Customer 746,Bank,Price and Value,Why was I billed more than what I had agreed upon?,10/1/2024
+Customer 747,Hospital,Feedback,Can you explain why my experience was so different from what was advertised?,7/5/2024
+Customer 748,Hotel,Customer Service,Why is the customer service so slow and unresponsive?,12/4/2023
+Customer 749,Bank,Bribery,Is it normal to be asked for additional payment by the staff for quicker services?,6/11/2024
+Customer 750,Hotel,Price and Value,Why was I billed more than what I had agreed upon?,2/21/2024
+Customer 751,Hotel,Fraud and Scam,Can you explain why my credit card was charged twice for a single transaction?,10/9/2023
+Customer 752,Hotel,Fraud and Scam,Why did a suspicious transaction go through without any security verification?,12/2/2023
+Customer 753,Bank,Customer Service,How long do I need to wait for someone to respond to my service request?,7/31/2024
+Customer 754,Bank,Bribery,Why was I informed that I could get priority if I paid an unofficial fee?,2/19/2024
+Customer 755,Hotel,Bribery,Is it normal to be asked for additional payment by the staff for quicker services?,1/1/2024
+Customer 756,Hotel,Fraud and Scam,Can you explain why my credit card was charged twice for a single transaction?,9/30/2024
+Customer 757,Hospital,Feedback,Can you explain why my experience was so different from what was advertised?,3/24/2024
+Customer 758,Hotel,Operational Issue,"Why are your facilities not maintained properly, causing so many inconveniences?",9/6/2024
+Customer 759,Hospital,Bribery,Why was I informed that I could get priority if I paid an unofficial fee?,3/26/2024
+Customer 760,Hospital,Price and Value,Why was I billed more than what I had agreed upon?,12/22/2023
+Customer 761,Hotel,Operational Issue,"Why are your facilities not maintained properly, causing so many inconveniences?",5/22/2024
+Customer 762,Bank,Price and Value,Why was I billed more than what I had agreed upon?,5/22/2024
+Customer 763,Bank,Fraud and Scam,Why did I find unauthorized charges on my account?,4/1/2024
+Customer 764,Hotel,Customer Service,How long do I need to wait for someone to respond to my service request?,1/6/2024
+Customer 765,Bank,Price and Value,Why was I billed more than what I had agreed upon?,12/25/2023
+Customer 766,Hospital,Bribery,Is it normal to be asked for additional payment by the staff for quicker services?,12/24/2023
+Customer 767,Bank,Feedback,How do you plan to improve based on customer feedback like mine?,6/15/2024
+Customer 768,Hospital,Fraud and Scam,Can you explain why my credit card was charged twice for a single transaction?,1/12/2024
+Customer 769,Bank,Operational Issue,Why is there always an issue with your online services?,10/14/2023
+Customer 770,Hotel,Bribery,Is it normal to be asked for additional payment by the staff for quicker services?,5/22/2024
+Customer 771,Bank,Feedback,Can you explain why my experience was so different from what was advertised?,8/4/2024
+Customer 772,Hotel,Customer Service,Why is the customer service so slow and unresponsive?,2/5/2024
+Customer 773,Hotel,Customer Service,Why does it take forever to resolve even the simplest issues?,10/17/2023
+Customer 774,Hospital,Price and Value,Why are the prices so high for such basic services?,2/6/2024
+Customer 775,Hospital,Operational Issue,Can you explain why the system was down for hours?,4/28/2024
+Customer 776,Hospital,Fraud and Scam,Why did I find unauthorized charges on my account?,10/13/2023
+Customer 777,Hospital,Operational Issue,Why is there always an issue with your online services?,10/22/2023
+Customer 778,Hospital,Price and Value,Can you explain the hidden fees added to my bill?,4/18/2024
+Customer 779,Bank,Customer Service,How long do I need to wait for someone to respond to my service request?,5/4/2024
+Customer 780,Bank,Price and Value,Why was I billed more than what I had agreed upon?,11/12/2023
+Customer 781,Hospital,Price and Value,Why are the prices so high for such basic services?,12/23/2023
+Customer 782,Bank,Operational Issue,"Why are your facilities not maintained properly, causing so many inconveniences?",1/24/2024
+Customer 783,Hotel,Customer Service,Why is the customer service so slow and unresponsive?,8/10/2024
+Customer 784,Hospital,Price and Value,Why are the prices so high for such basic services?,11/6/2023
+Customer 785,Hotel,Bribery,Why do I need to pay extra for services that should be standard?,12/7/2023
+Customer 786,Hotel,Bribery,Why was I informed that I could get priority if I paid an unofficial fee?,8/25/2024
+Customer 787,Bank,Fraud and Scam,Why did I find unauthorized charges on my account?,4/8/2024
+Customer 788,Hotel,Customer Service,How long do I need to wait for someone to respond to my service request?,10/3/2024
+Customer 789,Hospital,Customer Service,Why is the customer service so slow and unresponsive?,12/12/2023
+Customer 790,Hotel,Fraud and Scam,Why did a suspicious transaction go through without any security verification?,7/22/2024
+Customer 791,Hotel,Operational Issue,Can you explain why the system was down for hours?,6/24/2024
+Customer 792,Bank,Customer Service,Why does it take forever to resolve even the simplest issues?,8/22/2024
+Customer 793,Hospital,Customer Service,Why does it take forever to resolve even the simplest issues?,7/25/2024
+Customer 794,Bank,Feedback,Why wasn't my feedback on the service acknowledged?,10/31/2023
+Customer 795,Bank,Bribery,Why do I need to pay extra for services that should be standard?,7/16/2024
+Customer 796,Hospital,Price and Value,Can you explain the hidden fees added to my bill?,2/13/2024
+Customer 797,Hotel,Customer Service,Why does it take forever to resolve even the simplest issues?,11/5/2023
+Customer 798,Hospital,Customer Service,Why does it take forever to resolve even the simplest issues?,5/5/2024
+Customer 799,Bank,Feedback,How do you plan to improve based on customer feedback like mine?,1/4/2024
+Customer 800,Hospital,Feedback,Can you explain why my experience was so different from what was advertised?,4/15/2024
+Customer 801,Hotel,Feedback,Why wasn't my feedback on the service acknowledged?,6/3/2024
+Customer 802,Bank,Customer Service,Why does it take forever to resolve even the simplest issues?,1/23/2024
+Customer 803,Hospital,Feedback,Why wasn't my feedback on the service acknowledged?,9/17/2024
+Customer 804,Hotel,Fraud and Scam,Can you explain why my credit card was charged twice for a single transaction?,1/3/2024
+Customer 805,Bank,Fraud and Scam,Why did a suspicious transaction go through without any security verification?,1/14/2024
+Customer 806,Bank,Operational Issue,"Why are your facilities not maintained properly, causing so many inconveniences?",9/12/2024
+Customer 807,Hotel,Fraud and Scam,Can you explain why my credit card was charged twice for a single transaction?,1/24/2024
+Customer 808,Hospital,Operational Issue,Can you explain why the system was down for hours?,1/24/2024
+Customer 809,Bank,Bribery,Why do I need to pay extra for services that should be standard?,11/18/2023
+Customer 810,Bank,Operational Issue,"Why are your facilities not maintained properly, causing so many inconveniences?",11/12/2023
+Customer 811,Hotel,Customer Service,Why does it take forever to resolve even the simplest issues?,7/22/2024
+Customer 812,Hospital,Bribery,Why do I need to pay extra for services that should be standard?,11/2/2023
+Customer 813,Hospital,Bribery,Why was I informed that I could get priority if I paid an unofficial fee?,1/15/2024
+Customer 814,Hotel,Feedback,How do you plan to improve based on customer feedback like mine?,12/14/2023
+Customer 815,Hotel,Feedback,Why wasn't my feedback on the service acknowledged?,3/7/2024
+Customer 816,Hotel,Operational Issue,"Why are your facilities not maintained properly, causing so many inconveniences?",6/25/2024
+Customer 817,Bank,Operational Issue,Why is there always an issue with your online services?,7/24/2024
+Customer 818,Hospital,Price and Value,Why are the prices so high for such basic services?,7/12/2024
+Customer 819,Bank,Feedback,Can you explain why my experience was so different from what was advertised?,3/27/2024
+Customer 820,Hotel,Operational Issue,"Why are your facilities not maintained properly, causing so many inconveniences?",10/15/2023
+Customer 821,Hotel,Price and Value,Why are the prices so high for such basic services?,8/11/2024
+Customer 822,Bank,Operational Issue,Can you explain why the system was down for hours?,7/25/2024
+Customer 823,Hotel,Fraud and Scam,Why did I find unauthorized charges on my account?,5/30/2024
+Customer 824,Hospital,Feedback,How do you plan to improve based on customer feedback like mine?,8/30/2024
+Customer 825,Bank,Operational Issue,"Why are your facilities not maintained properly, causing so many inconveniences?",2/21/2024
+Customer 826,Hospital,Operational Issue,"Why are your facilities not maintained properly, causing so many inconveniences?",1/29/2024
+Customer 827,Hospital,Operational Issue,"Why are your facilities not maintained properly, causing so many inconveniences?",7/15/2024
+Customer 828,Hotel,Operational Issue,"Why are your facilities not maintained properly, causing so many inconveniences?",5/3/2024
+Customer 829,Hotel,Feedback,Can you explain why my experience was so different from what was advertised?,5/11/2024
+Customer 830,Hospital,Fraud and Scam,Can you explain why my credit card was charged twice for a single transaction?,7/26/2024
+Customer 831,Bank,Customer Service,Why does it take forever to resolve even the simplest issues?,2/8/2024
+Customer 832,Bank,Bribery,Why do I need to pay extra for services that should be standard?,5/24/2024
+Customer 833,Hospital,Fraud and Scam,Can you explain why my credit card was charged twice for a single transaction?,10/8/2023
+Customer 834,Hospital,Fraud and Scam,Can you explain why my credit card was charged twice for a single transaction?,8/14/2024
+Customer 835,Hospital,Customer Service,Why is the customer service so slow and unresponsive?,5/30/2024
+Customer 836,Hotel,Price and Value,Can you explain the hidden fees added to my bill?,11/20/2023
+Customer 837,Hospital,Bribery,Why do I need to pay extra for services that should be standard?,8/30/2024
+Customer 838,Hotel,Price and Value,Can you explain the hidden fees added to my bill?,5/2/2024
+Customer 839,Hotel,Fraud and Scam,Why did a suspicious transaction go through without any security verification?,11/7/2023
+Customer 840,Bank,Bribery,Why was I informed that I could get priority if I paid an unofficial fee?,6/25/2024
+Customer 841,Hospital,Bribery,Why was I informed that I could get priority if I paid an unofficial fee?,1/4/2024
+Customer 842,Hotel,Fraud and Scam,Why did I find unauthorized charges on my account?,10/16/2023
+Customer 843,Hospital,Operational Issue,"Why are your facilities not maintained properly, causing so many inconveniences?",2/27/2024
+Customer 844,Hospital,Fraud and Scam,Can you explain why my credit card was charged twice for a single transaction?,12/11/2023
+Customer 845,Hotel,Fraud and Scam,Can you explain why my credit card was charged twice for a single transaction?,1/29/2024
+Customer 846,Hospital,Price and Value,Can you explain the hidden fees added to my bill?,8/15/2024
+Customer 847,Hotel,Operational Issue,Can you explain why the system was down for hours?,6/9/2024
+Customer 848,Hotel,Price and Value,Can you explain the hidden fees added to my bill?,6/2/2024
+Customer 849,Hospital,Feedback,Can you explain why my experience was so different from what was advertised?,3/23/2024
+Customer 850,Hospital,Operational Issue,"Why are your facilities not maintained properly, causing so many inconveniences?",2/15/2024
+Customer 851,Bank,Bribery,Why was I informed that I could get priority if I paid an unofficial fee?,7/23/2024
+Customer 852,Hospital,Fraud and Scam,Why did a suspicious transaction go through without any security verification?,7/11/2024
+Customer 853,Hotel,Operational Issue,Can you explain why the system was down for hours?,11/3/2023
+Customer 854,Hospital,Price and Value,Why are the prices so high for such basic services?,10/24/2023
+Customer 855,Bank,Customer Service,Why is the customer service so slow and unresponsive?,12/26/2023
+Customer 856,Bank,Operational Issue,Can you explain why the system was down for hours?,3/7/2024
+Customer 857,Hotel,Bribery,Why was I informed that I could get priority if I paid an unofficial fee?,7/14/2024
+Customer 858,Hospital,Operational Issue,"Why are your facilities not maintained properly, causing so many inconveniences?",9/5/2024
+Customer 859,Bank,Fraud and Scam,Can you explain why my credit card was charged twice for a single transaction?,3/2/2024
+Customer 860,Hospital,Fraud and Scam,Why did a suspicious transaction go through without any security verification?,6/13/2024
+Customer 861,Hotel,Bribery,Is it normal to be asked for additional payment by the staff for quicker services?,11/5/2023
+Customer 862,Hotel,Fraud and Scam,Can you explain why my credit card was charged twice for a single transaction?,6/4/2024
+Customer 863,Hospital,Price and Value,Why was I billed more than what I had agreed upon?,1/7/2024
+Customer 864,Hospital,Bribery,Is it normal to be asked for additional payment by the staff for quicker services?,8/8/2024
+Customer 865,Bank,Bribery,Is it normal to be asked for additional payment by the staff for quicker services?,2/9/2024
+Customer 866,Hotel,Feedback,Why wasn't my feedback on the service acknowledged?,3/20/2024
+Customer 867,Hotel,Fraud and Scam,Can you explain why my credit card was charged twice for a single transaction?,2/20/2024
+Customer 868,Hospital,Customer Service,Why does it take forever to resolve even the simplest issues?,12/26/2023
+Customer 869,Hospital,Fraud and Scam,Why did a suspicious transaction go through without any security verification?,10/28/2023
+Customer 870,Hospital,Operational Issue,Why is there always an issue with your online services?,3/28/2024
+Customer 871,Bank,Bribery,Why was I informed that I could get priority if I paid an unofficial fee?,1/5/2024
+Customer 872,Bank,Feedback,Can you explain why my experience was so different from what was advertised?,11/27/2023
+Customer 873,Hospital,Feedback,Why wasn't my feedback on the service acknowledged?,4/23/2024
+Customer 874,Bank,Operational Issue,Why is there always an issue with your online services?,1/30/2024
+Customer 875,Hotel,Customer Service,Why is the customer service so slow and unresponsive?,1/5/2024
+Customer 876,Bank,Customer Service,Why is the customer service so slow and unresponsive?,11/30/2023
+Customer 877,Hotel,Fraud and Scam,Why did I find unauthorized charges on my account?,4/26/2024
+Customer 878,Hospital,Customer Service,Why is the customer service so slow and unresponsive?,10/9/2023
+Customer 879,Hospital,Bribery,Is it normal to be asked for additional payment by the staff for quicker services?,2/9/2024
+Customer 880,Hospital,Fraud and Scam,Why did I find unauthorized charges on my account?,4/18/2024
+Customer 881,Hotel,Price and Value,Why are the prices so high for such basic services?,12/5/2023
+Customer 882,Bank,Fraud and Scam,Can you explain why my credit card was charged twice for a single transaction?,10/16/2023
+Customer 883,Bank,Feedback,Why wasn't my feedback on the service acknowledged?,2/4/2024
+Customer 884,Hospital,Bribery,Why do I need to pay extra for services that should be standard?,5/24/2024
+Customer 885,Hospital,Price and Value,Why was I billed more than what I had agreed upon?,7/5/2024
+Customer 886,Hotel,Operational Issue,Can you explain why the system was down for hours?,12/19/2023
+Customer 887,Hospital,Operational Issue,"Why are your facilities not maintained properly, causing so many inconveniences?",1/11/2024
+Customer 888,Bank,Customer Service,Why does it take forever to resolve even the simplest issues?,3/21/2024
+Customer 889,Bank,Bribery,Why do I need to pay extra for services that should be standard?,7/20/2024
+Customer 890,Bank,Fraud and Scam,Can you explain why my credit card was charged twice for a single transaction?,10/28/2023
+Customer 891,Bank,Fraud and Scam,Why did I find unauthorized charges on my account?,3/1/2024
+Customer 892,Hospital,Bribery,Why do I need to pay extra for services that should be standard?,7/8/2024
+Customer 893,Hospital,Operational Issue,Can you explain why the system was down for hours?,8/15/2024
+Customer 894,Bank,Customer Service,Why does it take forever to resolve even the simplest issues?,4/3/2024
+Customer 895,Bank,Operational Issue,"Why are your facilities not maintained properly, causing so many inconveniences?",8/4/2024
+Customer 896,Hospital,Bribery,Why was I informed that I could get priority if I paid an unofficial fee?,6/18/2024
+Customer 897,Bank,Fraud and Scam,Why did I find unauthorized charges on my account?,1/15/2024
+Customer 898,Bank,Operational Issue,Why is there always an issue with your online services?,6/5/2024
+Customer 899,Hospital,Operational Issue,Can you explain why the system was down for hours?,4/30/2024
+Customer 900,Bank,Operational Issue,Can you explain why the system was down for hours?,10/22/2023
+Customer 901,Hotel,Customer Service,How long do I need to wait for someone to respond to my service request?,7/31/2024
+Customer 902,Hospital,Feedback,Why wasn't my feedback on the service acknowledged?,3/30/2024
+Customer 903,Hotel,Feedback,Why wasn't my feedback on the service acknowledged?,11/18/2023
+Customer 904,Hotel,Price and Value,Why was I billed more than what I had agreed upon?,10/18/2023
+Customer 905,Bank,Customer Service,Why does it take forever to resolve even the simplest issues?,9/4/2024
+Customer 906,Bank,Customer Service,How long do I need to wait for someone to respond to my service request?,10/6/2023
+Customer 907,Hotel,Customer Service,Why does it take forever to resolve even the simplest issues?,2/1/2024
+Customer 908,Bank,Bribery,Is it normal to be asked for additional payment by the staff for quicker services?,6/23/2024
+Customer 909,Bank,Bribery,Why do I need to pay extra for services that should be standard?,4/5/2024
+Customer 910,Bank,Fraud and Scam,Why did I find unauthorized charges on my account?,8/7/2024
+Customer 911,Bank,Feedback,Why wasn't my feedback on the service acknowledged?,7/30/2024
+Customer 912,Hotel,Feedback,How do you plan to improve based on customer feedback like mine?,3/15/2024
+Customer 913,Bank,Price and Value,Why was I billed more than what I had agreed upon?,4/11/2024
+Customer 914,Hospital,Bribery,Why do I need to pay extra for services that should be standard?,11/12/2023
+Customer 915,Hospital,Bribery,Why was I informed that I could get priority if I paid an unofficial fee?,3/23/2024
+Customer 916,Hospital,Price and Value,Why was I billed more than what I had agreed upon?,1/13/2024
+Customer 917,Hotel,Price and Value,Can you explain the hidden fees added to my bill?,10/11/2023
+Customer 918,Hotel,Bribery,Why do I need to pay extra for services that should be standard?,4/5/2024
+Customer 919,Hotel,Feedback,How do you plan to improve based on customer feedback like mine?,6/29/2024
+Customer 920,Hospital,Feedback,Why wasn't my feedback on the service acknowledged?,9/6/2024
+Customer 921,Hotel,Customer Service,Why is the customer service so slow and unresponsive?,4/29/2024
+Customer 922,Hotel,Fraud and Scam,Why did a suspicious transaction go through without any security verification?,2/5/2024
+Customer 923,Hospital,Feedback,Why wasn't my feedback on the service acknowledged?,8/4/2024
+Customer 924,Hotel,Price and Value,Can you explain the hidden fees added to my bill?,12/22/2023
+Customer 925,Bank,Feedback,Can you explain why my experience was so different from what was advertised?,10/16/2023
+Customer 926,Hospital,Bribery,Why was I informed that I could get priority if I paid an unofficial fee?,4/3/2024
+Customer 927,Bank,Fraud and Scam,Why did a suspicious transaction go through without any security verification?,8/29/2024
+Customer 928,Hospital,Bribery,Why was I informed that I could get priority if I paid an unofficial fee?,5/1/2024
+Customer 929,Hotel,Customer Service,Why does it take forever to resolve even the simplest issues?,1/2/2024
+Customer 930,Hospital,Fraud and Scam,Why did I find unauthorized charges on my account?,5/22/2024
+Customer 931,Hotel,Customer Service,Why does it take forever to resolve even the simplest issues?,7/19/2024
+Customer 932,Hospital,Bribery,Is it normal to be asked for additional payment by the staff for quicker services?,5/19/2024
+Customer 933,Hospital,Operational Issue,Can you explain why the system was down for hours?,8/10/2024
+Customer 934,Hotel,Feedback,Can you explain why my experience was so different from what was advertised?,3/4/2024
+Customer 935,Hospital,Operational Issue,Why is there always an issue with your online services?,12/31/2023
+Customer 936,Hospital,Fraud and Scam,Why did a suspicious transaction go through without any security verification?,7/11/2024
+Customer 937,Hospital,Customer Service,Why does it take forever to resolve even the simplest issues?,1/19/2024
+Customer 938,Hotel,Operational Issue,"Why are your facilities not maintained properly, causing so many inconveniences?",10/30/2023
+Customer 939,Hotel,Bribery,Is it normal to be asked for additional payment by the staff for quicker services?,12/8/2023
+Customer 940,Bank,Customer Service,Why does it take forever to resolve even the simplest issues?,6/3/2024
+Customer 941,Hotel,Feedback,Why wasn't my feedback on the service acknowledged?,8/30/2024
+Customer 942,Bank,Bribery,Why do I need to pay extra for services that should be standard?,5/9/2024
+Customer 943,Bank,Price and Value,Why are the prices so high for such basic services?,3/9/2024
+Customer 944,Hospital,Price and Value,Can you explain the hidden fees added to my bill?,5/2/2024
+Customer 945,Hospital,Fraud and Scam,Why did I find unauthorized charges on my account?,8/27/2024
+Customer 946,Hotel,Feedback,Can you explain why my experience was so different from what was advertised?,6/15/2024
+Customer 947,Bank,Price and Value,Why was I billed more than what I had agreed upon?,11/18/2023
+Customer 948,Hotel,Customer Service,How long do I need to wait for someone to respond to my service request?,3/20/2024
+Customer 949,Hotel,Price and Value,Why was I billed more than what I had agreed upon?,12/1/2023
+Customer 950,Bank,Fraud and Scam,Why did I find unauthorized charges on my account?,10/6/2023
+Customer 951,Bank,Customer Service,Why does it take forever to resolve even the simplest issues?,11/16/2023
+Customer 952,Bank,Customer Service,How long do I need to wait for someone to respond to my service request?,8/8/2024
+Customer 953,Bank,Feedback,Why wasn't my feedback on the service acknowledged?,7/18/2024
+Customer 954,Hospital,Bribery,Is it normal to be asked for additional payment by the staff for quicker services?,8/24/2024
+Customer 955,Bank,Customer Service,Why does it take forever to resolve even the simplest issues?,4/27/2024
+Customer 956,Bank,Customer Service,How long do I need to wait for someone to respond to my service request?,3/5/2024
+Customer 957,Hotel,Fraud and Scam,Can you explain why my credit card was charged twice for a single transaction?,11/18/2023
+Customer 958,Hospital,Price and Value,Why are the prices so high for such basic services?,6/10/2024
+Customer 959,Bank,Fraud and Scam,Why did a suspicious transaction go through without any security verification?,10/13/2023
+Customer 960,Hotel,Price and Value,Why was I billed more than what I had agreed upon?,1/22/2024
+Customer 961,Bank,Operational Issue,Can you explain why the system was down for hours?,12/9/2023
+Customer 962,Hospital,Customer Service,Why is the customer service so slow and unresponsive?,6/20/2024
+Customer 963,Bank,Bribery,Why was I informed that I could get priority if I paid an unofficial fee?,6/24/2024
+Customer 964,Hotel,Fraud and Scam,Why did a suspicious transaction go through without any security verification?,9/9/2024
+Customer 965,Hotel,Operational Issue,Can you explain why the system was down for hours?,1/11/2024
+Customer 966,Bank,Fraud and Scam,Why did I find unauthorized charges on my account?,7/18/2024
+Customer 967,Hospital,Customer Service,Why does it take forever to resolve even the simplest issues?,11/16/2023
+Customer 968,Hotel,Customer Service,Why is the customer service so slow and unresponsive?,7/18/2024
+Customer 969,Hotel,Feedback,Why wasn't my feedback on the service acknowledged?,3/26/2024
+Customer 970,Hotel,Operational Issue,Can you explain why the system was down for hours?,4/15/2024
+Customer 971,Hotel,Fraud and Scam,Can you explain why my credit card was charged twice for a single transaction?,2/21/2024
+Customer 972,Hospital,Bribery,Why do I need to pay extra for services that should be standard?,4/28/2024
+Customer 973,Hospital,Operational Issue,"Why are your facilities not maintained properly, causing so many inconveniences?",7/10/2024
+Customer 974,Hospital,Price and Value,Why are the prices so high for such basic services?,1/11/2024
+Customer 975,Hospital,Customer Service,Why does it take forever to resolve even the simplest issues?,10/18/2023
+Customer 976,Hotel,Price and Value,Why are the prices so high for such basic services?,5/28/2024
+Customer 977,Hospital,Price and Value,Why are the prices so high for such basic services?,7/18/2024
+Customer 978,Hospital,Operational Issue,"Why are your facilities not maintained properly, causing so many inconveniences?",8/13/2024
+Customer 979,Hospital,Operational Issue,Why is there always an issue with your online services?,6/23/2024
+Customer 980,Bank,Feedback,How do you plan to improve based on customer feedback like mine?,3/20/2024
+Customer 981,Hotel,Operational Issue,"Why are your facilities not maintained properly, causing so many inconveniences?",9/15/2024
+Customer 982,Hotel,Fraud and Scam,Can you explain why my credit card was charged twice for a single transaction?,11/5/2023
+Customer 983,Hotel,Operational Issue,Why is there always an issue with your online services?,11/24/2023
+Customer 984,Bank,Price and Value,Can you explain the hidden fees added to my bill?,4/26/2024
+Customer 985,Hotel,Operational Issue,"Why are your facilities not maintained properly, causing so many inconveniences?",8/2/2024
+Customer 986,Bank,Price and Value,Can you explain the hidden fees added to my bill?,6/24/2024
+Customer 987,Hospital,Feedback,How do you plan to improve based on customer feedback like mine?,5/7/2024
+Customer 988,Hotel,Fraud and Scam,Can you explain why my credit card was charged twice for a single transaction?,9/30/2024
+Customer 989,Bank,Feedback,Can you explain why my experience was so different from what was advertised?,12/6/2023
+Customer 990,Hotel,Fraud and Scam,Can you explain why my credit card was charged twice for a single transaction?,3/7/2024
+Customer 991,Bank,Customer Service,How long do I need to wait for someone to respond to my service request?,4/28/2024
+Customer 992,Hospital,Fraud and Scam,Why did a suspicious transaction go through without any security verification?,5/18/2024
+Customer 993,Hospital,Fraud and Scam,Why did I find unauthorized charges on my account?,8/27/2024
+Customer 994,Bank,Fraud and Scam,Can you explain why my credit card was charged twice for a single transaction?,9/14/2024
+Customer 995,Hotel,Price and Value,Why was I billed more than what I had agreed upon?,7/29/2024
+Customer 996,Bank,Fraud and Scam,Why did I find unauthorized charges on my account?,1/13/2024
+Customer 997,Hospital,Feedback,Can you explain why my experience was so different from what was advertised?,8/28/2024
+Customer 998,Hospital,Fraud and Scam,Why did a suspicious transaction go through without any security verification?,2/20/2024
+Customer 999,Hospital,Customer Service,How long do I need to wait for someone to respond to my service request?,4/4/2024
+Customer 1000,Hospital,Feedback,How do you plan to improve based on customer feedback like mine?,11/10/2023
